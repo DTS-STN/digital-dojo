@@ -5,9 +5,9 @@ en:
   home_url: home  
   language: English
   language_swap: Language swap
-  meta_description: The Digital Task Force is a team working in the CIO Office of Shared Services Canada
-  meta_title: Digital Task Force
-  meta_title_acronym: DTF
+  meta_description: The Digital Dojo is a small team in ESDC, IITB, DTS
+  meta_title: Digital Dojo
+  meta_title_acronym: DD
   canada_ca: Government of Canada
   canada_ca_url: https://www.canada.ca/en/
 fr:
@@ -17,8 +17,8 @@ fr:
   home_url: accueil  
   language: Français
   language_swap: Sélection de la langue
-  meta_description: L’Équipe d’intervention numérique est une équipe qui travaille au Bureau du DPI de Services partagés Canada.
-  meta_title: L’Équipe d’intervention numérique
-  meta_title_acronym: EIN
+  meta_description: The Digital Dojo is a small team in ESDC, IITB, DTS
+  meta_title: Digital Dojo
+  meta_title_acronym: DD
   canada_ca: Government of Canada
   canada_ca_url: https://www.canada.ca/fr/

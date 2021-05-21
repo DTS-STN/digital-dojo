@@ -1,0 +1,45 @@
+footer {
+  .site-footer {
+    @extend %padding-small;
+    width: 100%;
+
+    p {
+      margin: 0;
+    }
+  }
+
+
+  .fip-bar {
+    @extend %padding-small;
+    background: #000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+
+    a,
+    a:hover,
+    a:visited {
+      color: #fff;
+    }
+
+    img {
+      height: auto;
+
+      &.fip {
+        width: 300px;
+      }
+      &.wordmark {
+        width: 130px;
+      }
+    }
+  }
+
+  &:after {
+    content: '';
+    display: block;
+    height: 10px;
+    background: linear-gradient(90deg, rgba(39,34,155,1) 0%, rgba(99,30,117,1) 100%);  
+  }  
+}
+

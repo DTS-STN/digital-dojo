@@ -1,0 +1,17 @@
+*.DS_Store
+*.gem
+*.log
+
+.bundle
+.jekyll-metadata
+.sass-cache
+.vagrant
+
+cypress/fixtures
+cypress/screenshots
+cypress/support/commands.js
+cypress/videos
+cypress/**/*.actual.png
+cypress/**/*.diff.png
+node_modules
+_site

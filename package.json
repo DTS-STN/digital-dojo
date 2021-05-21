@@ -1,0 +1,33 @@
+{
+  "name": "dtf-ein.github.io",
+  "version": "1.0.0",
+  "description": "Automated tests for the Digital Task Force website",
+  "scripts": {
+    "cypress:open": "cypress open --env host=http://localhost:8080",
+    "cypress:run": "cypress run --env host=http://localhost:8080",
+    "cypress:ci": "cypress run --env host=http://localhost:8080 --record --group functional-tests",
+    "server:start": "static _site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtf-ein/dtf-ein.github.io.git"
+  },
+  "keywords": [
+    "test",
+    "cypress",
+    "aXe"
+  ],
+  "author": "Pat Heard <patrick.heard@canada.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtf-ein/dtf-ein.github.io/issues"
+  },
+  "homepage": "https://dtf-ein.github.io/",
+  "devDependencies": {
+    "axe-core": "^3.3.2",
+    "cypress": "^3.4.1",
+    "cypress-axe": "^0.5.1",
+    "cypress-plugin-snapshots": "^1.2.9",
+    "node-static": "^0.7.11"
+  }
+}

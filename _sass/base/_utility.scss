@@ -1,0 +1,126 @@
+// Mix-ins
+%padding-small {
+  padding: $padding-x-small $padding-x-small * 2;
+  @media (max-width: 768px) {
+    padding: $padding-small * 2 $padding-small;
+  }
+}
+%padding-regular {
+  padding: $padding-small $padding-large;
+  @media (max-width: 1000px) {
+    padding: $padding-small * 1.5 $padding-large / 1.6;
+  }
+  @media (max-width: 576px) {
+    padding: $padding-small * 1.5 $padding-small * 2;
+  }
+}
+// Buttons
+.button {
+  position: relative;
+  display: inline-block;
+  padding: .5em 1em;
+  margin: 1em .25em;
+
+  color: $link-color;
+  background: rgba(0,0,0,.05);
+  
+  &:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: linear-gradient(90deg, rgba(39,34,155,1) 0%, rgba(99,30,117,1) 100%);
+    transition: all .2s;
+  }
+
+  &:hover {
+    background: rgba(0,0,0,.06);
+    &:after {
+      height: 5px;  
+    }
+  }
+}
+
+.body-link {
+  &:hover {
+    text-decoration: underline;
+    color: darken($link-color, 15%);
+  }
+}
+// States
+.disabled {
+  opacity: 0.7;
+}
+
+.font-xl {
+  font-size: 1.8em !important;
+}
+
+.font-lg {
+  font-size: 1.4em !important;
+}
+
+.font-md {
+  font-size: 1em !important;
+}
+
+.font-sm {
+  font-size: 0.8em !important;
+}
+
+.margin-bottom-lg {
+  margin-bottom: 1.5em !important;
+}
+
+.margin-bottom-md {
+  margin-bottom: 1em !important;
+}
+
+.margin-bottom-sm {
+  margin-bottom: .5em !important;
+}
+
+.list-inline {
+  margin: 0;
+  padding: 0;  
+  display: inline-block;
+
+  li {
+    display: inline-block;
+    list-style: none;
+  }
+}
+
+.flex-clear {
+  width: 100%;
+  height: 0;
+}
+
+/* Hidden content, but available to screen readers */ 
+.inv {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+.show-mobile {
+  display: none;
+}
+
+@media (max-width: 576px) {
+  .show-mobile {
+    display: inherit;
+  }
+
+  .hide-mobile {
+    display: none;
+  }
+}

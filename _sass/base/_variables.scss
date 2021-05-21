@@ -1,0 +1,36 @@
+// Typography
+$font-family-main: 'Didact Gothic', sans-serif !default;
+$font-family-headings: 'Didact Gothic', sans-serif !default;
+%font-size {
+    font-size: 1.3em;
+    @media (max-width: 576px) {
+        font-size: 1.1em;
+    }
+}
+
+// Padding
+$padding-large: 25% !default;
+$padding-small: 2.8% !default;
+$padding-x-small: 2.2% !default;
+
+// Brand colours
+$brand-color: #fff !default;
+$background-color: #fff !default;
+$border-color: rgba(0, 0, 0, 0.1) !default; // rgba recommended if using feature images
+
+// Typography colours
+$text-color: #383838 !default;
+$link-color: #3165b5 !default;
+$selection-color: #D4D4D4 !default; // visible when highlighting text
+
+// Header colours
+$header-link-color: #383838 !default;
+
+// Feature image for articles
+$feature-image-text-color: #fff !default;
+$feature-image-size: cover !default; // options include "cover", "contain", "auto"
+
+// Header description box
+$header-desc-background-color: #fff !default;
+$header-desc-text-color: #383838 !default;
+$header-desc-link-color: rgb(57, 111, 192) !default;

@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/digital-dojo"
 
 # BUILD SETTINGS
 markdown: kramdown

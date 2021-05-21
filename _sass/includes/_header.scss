@@ -29,7 +29,6 @@
 
   .branding {
     @include header-bar;  
-    border-bottom: 1px solid $border-color;
     
     a {
       color: $header-link-color;

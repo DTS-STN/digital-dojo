@@ -1,6 +1,6 @@
 [![circleci](https://img.shields.io/circleci/project/github/dtf-ein/dtf-ein.github.io.svg)](https://circleci.com/gh/dtf-ein/dtf-ein.github.io/)
 
-# Digital Task Force website
+# Digital Dojo
 [Website for our team](https://dts-stn.github.io/digital-dojo/home/), working in Digital Technology Solutions within IITB at ESDC.
 
 # Local development

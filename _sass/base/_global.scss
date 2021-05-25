@@ -36,6 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   a {
     color: $text-color;
   }
+  color: rgba(83,127,190);
 }
 h1 {
   font-size: 1.8em;
@@ -125,4 +126,19 @@ img[align=left] {
 }
 img[align=right] {
   margin-left: 3%;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 1rem;
+}
+.grid > div {
+  background: #EDE7F6;
+  padding: 1.5rem;
+  border-radius: 1rem;
+}
+body {
+  margin: 2rem;
+  font: 12px system-ui;
 }

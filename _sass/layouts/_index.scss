@@ -49,11 +49,12 @@
 .call-out {
   @extend %padding-regular;
   display: inline-block;
-  width: 100%;
+  width: 80%;
   background-color:$header-desc-background-color;
   background-size: cover;
   text-align: center;
   color: $header-desc-text-color;
+  border-bottom: 1px solid $border-color;
 }
 .call-out p:last-child {
   margin-bottom: 0;

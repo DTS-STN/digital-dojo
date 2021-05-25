@@ -2,7 +2,7 @@
 layout: home
 title: Contactez Nous
 lang: fr
-ref: home
+ref: contacteznous
 permalink: /contacteznous/
 
 ---

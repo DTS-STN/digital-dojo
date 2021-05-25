@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Home
+title: Contact Us
 lang: en
-ref: home
+ref: contactus
 permalink: /home/
 callout: >
     <h1 class="inv">Digital Dojo</h1>

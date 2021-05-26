@@ -12,32 +12,19 @@ callout: >
 
 ## What's a Dojo?
 
-A Dojo is a Japanese word for a space for immersive learning or meditation.​
+A Dojo is a Japanese word for a space for immersive learning or meditation.​ The global DevOps community have embraced the concept of a Dojo for learning and implementing organizational transformation.​
 
-The global DevOps community have embraced DevOps Dojos for learning and implementing organizational transformation.​
+Digital Technology Solutions within IITB at ESDC is taking this concept and applying it to learning on the TBS Digital Standards, which are aligned to Agile and DevOps mindsets.
+Our Digital Dojo aims to provide an immersive virtual space where ESDC product teams can learn new skills and new ways to solve common problems with the help and guidance of GC Experts.
 
-Our Digital Dojo aims to provide an immersive virtual space where ESDC product teams learn new skills and new ways to solve common problems during service delivery.
-
-## What a Dojo is and isn't
+## What the Digital Dojo is and isn't
 
 <div class="grid">
     <div>
 
-        | What a Dojo isn't                 | 
-        | ----------------------------------|
-        | Classroom Training                | 
-        | A center of Expertise             |  
-        | Abstract or High-level Theory     | 
-        | Exercises with predefined Answers | 
     </div>
     <div>
 
-    | What a Dojo is                                | 
-    |-----------------------------------------------| 
-    | Practical & immersive experience              | 
-    | Experts working directly with your team       |   
-    | Working on a Real Product                     | 
-    | Customized to your objectives                 |
     </div>
 </div>
 
@@ -50,5 +37,25 @@ Government of Canada Focus - We cater our experienced based on realistic Governm
 Virtual Learning - We are designing the Dojo with virtual learning in mind. We will also help teams learn how to work together more effectively in this new world.
 
 ## Get in touch
-- Dojo Manager: [stephanie.deguire@hrsdc-rhdcc.gc.ca](mailto:stephanie.deguire@hrsdc-rhdcc.gc.ca)
+
+
+<div class="grid-plain">
+    <div>
+        <img src="/assets/img/Form_icon.png" />
+        ###Apply to the Dojo
+        Open to ESDC only.
+    </div>
+    <div>
+        <img src="/assets/img/Email_icon.png" />
+        ###Contact us
+        Let's connect and chat!
+    </div>
+    <div>
+        <img src="/assets/img/Partner_icon.png" />
+        ###Our Partners
+        Meet friends of the Dojo!
+    </div>
+</div>
+
+Dojo Manager: [stephanie.deguire@hrsdc-rhdcc.gc.ca](mailto:stephanie.deguire@hrsdc-rhdcc.gc.ca)
 

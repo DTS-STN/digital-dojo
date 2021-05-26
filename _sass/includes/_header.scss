@@ -36,16 +36,6 @@
     }    
   }
 
-  .dots {
-    @include header-bar;  
-    
-    a {
-      color: $header-link-color;
-    }
-    vertical-align: middle;
-    
-  }
-
   .site-title {    
     font-weight: bold;
     font-size: 1em;

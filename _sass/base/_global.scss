@@ -132,6 +132,18 @@ img[align=right] {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   grid-gap: 1rem;
+
+  dojo-x{
+    background: rgb(233,234,243);
+    padding: 1.5rem;
+    border-radius: 1rem;
+  }
+  
+  dojo-y{
+    background: rgb(208,236,232);
+    padding: 1.5rem;
+    border-radius: 1rem;
+  }
 }
 
 .grid-plain {
@@ -149,14 +161,3 @@ img[align=right] {
 }
 
 
-.dojo-x{
-  background: rgb(233,234,243);
-  padding: 1.5rem;
-  border-radius: 1rem;
-}
-
-.dojo-y{
-  background: rgb(208,236,232);
-  padding: 1.5rem;
-  border-radius: 1rem;
-}

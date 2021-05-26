@@ -138,11 +138,17 @@ img[align=right] {
 .item1 {
   background: rgb(233,234,243);
   grid-gap: 1rem;
+  ul {
+    list-style: square inside url('../assets/img/x.png');
+  }
 }
 
 .item2 {
   background: rgb(208,236,232);
   grid-gap: 1rem;
+  ul {
+    list-style: square inside url('../assets/img/x.png');
+  }
 }
 
 .grid-plain {

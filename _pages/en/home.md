@@ -1,8 +1,7 @@
 ---
 layout: home
-title: Contact Us
 lang: en
-ref: contactus
+ref: home
 permalink: /home/
 callout: >
     <h1 class="inv">Digital Dojo</h1>
@@ -21,10 +20,18 @@ Our Digital Dojo aims to provide an immersive virtual space where ESDC product t
 
 <div class="grid">
     <div class="item1">
-    Test this shit
+        <ul>
+            <li> Classroom Training </li>
+            <li> A center of Expertise </li>
+            <li> Abstract or High-Level Theory </li>
+            <li> Exercises with predefined Answers </li>
+        </ul>
     </div>
     <div class="item2" >
-    Test that shit
+            <li> Practical & immersive experience</li>
+            <li> Experts working directly with your team </li>
+            <li> Learn while working on a real product </li>
+            <li> Customized to your objectives </li>
     </div>
 </div>
 

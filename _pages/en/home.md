@@ -53,14 +53,14 @@ Virtual Learning - We are designing the Dojo with virtual learning in mind. We w
     <div>
         <img src="../assets/img/Form_icon.png" />
 
-        <h4>Apply to the Dojo</h2>
+        <h4>Apply to the Dojo</h4>
         Open to ESDC only.
 
     </div>
     <div>
         <img src="../assets/img/Email_icon.png" />
 
-        <h4>Contact us</h2>
+        <h4>Contact us</h4>
 
         Let's connect and chat!
 
@@ -68,7 +68,7 @@ Virtual Learning - We are designing the Dojo with virtual learning in mind. We w
     <div>
         <img src="../assets/img/Partner_icon.png" />
 
-        <h4>Our Partners</h2>
+        <h4>Our Partners</h4>
 
         Meet friends of the Dojo!
 

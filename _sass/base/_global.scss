@@ -135,12 +135,14 @@ img[align=right] {
 
 }
 
-.griditem1 {
+.item1 {
   background: rgb(233,234,243);
+  grid-area: main;
 }
 
-.griditem2 {
+.item2 {
   background: rgb(208,236,232);
+  grid-area: main;
 }
 
 .grid-plain {

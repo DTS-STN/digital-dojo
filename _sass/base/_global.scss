@@ -144,9 +144,8 @@ img[align=right] {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-gap: 1rem;
 
-  .img{
+  img{
     height: 100px;
-
   }
 }
 .grid-plain > div {

@@ -134,7 +134,22 @@ img[align=right] {
   grid-gap: 1rem;
 }
 .grid > div {
-  background: #5E7FBE;
+  background: #e7e7e7;
+  padding: 1.5rem;
+  border-radius: 1rem;
+}
+
+.grid-plain {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 1rem;
+
+  .img{
+    height: 100px;
+
+  }
+}
+.grid-plain > div {
   padding: 1.5rem;
   border-radius: 1rem;
 }

@@ -20,10 +20,10 @@ Our Digital Dojo aims to provide an immersive virtual space where ESDC product t
 ## What the Digital Dojo is and isn't
 
 <div class="grid">
-    <div>
-
+    <div class="dojo-x">
+    
     </div>
-    <div>
+    <div class="dojo-y">
 
     </div>
 </div>
@@ -43,23 +43,25 @@ Virtual Learning - We are designing the Dojo with virtual learning in mind. We w
     <div>
         <img src="../assets/img/Form_icon.png" />
 
-        ###Apply to the Dojo
-
+        ##Apply to the Dojo
         Open to ESDC only.
+
     </div>
     <div>
         <img src="../assets/img/Email_icon.png" />
 
-        ###Contact us
+        ##Contact us
 
         Let's connect and chat!
+
     </div>
     <div>
         <img src="../assets/img/Partner_icon.png" />
 
-        ###Our Partners
+        ##Our Partners
 
         Meet friends of the Dojo!
+
     </div>
 </div>
 

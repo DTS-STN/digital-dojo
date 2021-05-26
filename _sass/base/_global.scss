@@ -137,19 +137,15 @@ img[align=right] {
 
 .item1 {
   background: rgb(233,234,243);
-
+  grid-gap: 1rem;
   ul {
-    list-style-type: none;
-    background-image: url('../img/x.png');
-    display: inline-block;
-    height: 40px;
-    width: 40px;
+    list-style: square inside url('../img/x.png');
   }
 }
 
 .item2 {
   background: rgb(208,236,232);
-
+  grid-gap: 1rem;
   ul {
     list-style: square inside url('../img/check.png');
   }

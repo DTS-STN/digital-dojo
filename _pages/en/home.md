@@ -19,7 +19,7 @@ Our Digital Dojo aims to provide an immersive virtual space where ESDC product t
 
 ## What the Digital Dojo is and isn't
 
-<div class="grid-dojo">
+<div class="grid">
     <div class="item1">
     Test this shit
     </div>

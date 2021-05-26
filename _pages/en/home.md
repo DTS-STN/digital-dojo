@@ -7,7 +7,7 @@ permalink: /home/
 callout: >
     <h1 class="inv">Digital Dojo</h1>
     <p class="font-xl margin-bottom-sm">There are no secrets to success. It is the result of preperation, hard work, and learning from failure.</p>
-    <p><a href="https://github.com/orgs/dtf-ein/projects/1" class="button">Follow our work</a></p>
+    <p><a href="https://github.com/DTS-STN" class="button">Follow our work</a></p>
 ---
 
 ## What's a Dojo?
@@ -19,11 +19,11 @@ Our Digital Dojo aims to provide an immersive virtual space where ESDC product t
 
 ## What the Digital Dojo is and isn't
 
-<div class="grid">
-    <div class="dojo-x">
+<div class="grid-dojo">
+    <div>
     Test this shit
     </div>
-    <div class="dojo-y">
+    <div >
     Test that shit
     </div>
 </div>

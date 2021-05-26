@@ -5,7 +5,7 @@ ref: home
 permalink: /home/
 callout: >
     <h1 class="inv">Digital Dojo</h1>
-    <p class="font-xl margin-bottom-sm">There are no secrets to success. It is the result of preperation, hard work, and learning from failure.</p>
+    <p class="font-xl margin-bottom-sm">There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</p>
     <p><a href="https://github.com/DTS-STN" class="button">Follow our work</a></p>
 ---
 

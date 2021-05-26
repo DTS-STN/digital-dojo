@@ -30,7 +30,7 @@
   .branding {
     @include header-bar;  
     
-    width: auto;
+    width: 80%;
     a {
       color: $header-link-color;
     }    

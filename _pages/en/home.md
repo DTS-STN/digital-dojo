@@ -24,21 +24,22 @@ Our Digital Dojo aims to provide an immersive virtual space where ESDC product t
 <div class="grid">
     <div>
 
-| What a Dojo isn't                 | 
-| ----------------------------------|
-| Classroom Training                | 
-| A center of Expertise             |  
-| Abstract or High-level Theory     | 
-| Exercises with predefined Answers | 
-</div>
-<div>
+        | What a Dojo isn't                 | 
+        | ----------------------------------|
+        | Classroom Training                | 
+        | A center of Expertise             |  
+        | Abstract or High-level Theory     | 
+        | Exercises with predefined Answers | 
+    </div>
+    <div>
 
-| What a Dojo is                                | 
-|-----------------------------------------------| 
-| Practical & immersive experience              | 
-| Experts working directly with your team       |   
-| Working on a Real Product                     | 
-| Customized to your objectives                 |
+    | What a Dojo is                                | 
+    |-----------------------------------------------| 
+    | Practical & immersive experience              | 
+    | Experts working directly with your team       |   
+    | Working on a Real Product                     | 
+    | Customized to your objectives                 |
+    </div>
 </div>
 
 ## Why our Dojo?

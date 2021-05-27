@@ -2,6 +2,7 @@
 layout: home
 lang: en
 ref: home
+title:  
 permalink: /home/
 callout: >
     <h1 class="inv">Digital Dojo</h1>

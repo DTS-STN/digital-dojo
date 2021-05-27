@@ -52,14 +52,18 @@ Virtual Learning - We are designing the Dojo with virtual learning in mind. We w
 
 <div class="grid-plain">
     <div>
-        <img src="../assets/img/Form_icon.png" />
+        <a href="{{ site.data.i18n[page.lang].apply_url | default: site.data.i18n.en.apply_url }}" aria-label="{{ site.data.i18n[page.lang].apply | default: site.data.i18n.en.apply }}\">
+            <img src="../assets/img/Form_icon.png" />
 
-        <h4>Apply to the Dojo</h4>
+            <h4>Apply to the Dojo</h4>
+        </a>
         Open to ESDC only.
 
     </div>
     <div>
-        <img src="../assets/img/Email_icon.png" />
+        <a href="{{ site.data.i18n[page.lang].contact_url | default: site.data.i18n.en.contact_url }}" aria-label="{{ site.data.i18n[page.lang].contact | default: site.data.i18n.en.contact }}\">
+            <img src="../assets/img/Email_icon.png" />
+        </a>
 
         <h4>Contact us</h4>
 
@@ -67,8 +71,9 @@ Virtual Learning - We are designing the Dojo with virtual learning in mind. We w
 
     </div>
     <div>
-        <img src="../assets/img/Partner_icon.png" />
-
+        <a href="{{ site.data.i18n[page.lang].partner_url | default: site.data.i18n.en.partner_url }}" aria-label="{{ site.data.i18n[page.lang].partner | default: site.data.i18n.en.partner }}\">
+            <img src="../assets/img/Partner_icon.png" />
+        </a>
         <h4>Our Partners</h4>
 
         Meet friends of the Dojo!
@@ -76,5 +81,4 @@ Virtual Learning - We are designing the Dojo with virtual learning in mind. We w
     </div>
 </div>
 
-Dojo Manager: [stephanie.deguire@hrsdc-rhdcc.gc.ca](mailto:stephanie.deguire@hrsdc-rhdcc.gc.ca)
 

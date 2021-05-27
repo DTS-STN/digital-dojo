@@ -1,7 +1,7 @@
 en:
   continue_reading: Continue reading
-  footer_hosted: <a href="https://github.com/dtf-ein/dtf-ein.github.io">Hosted on GitHub</a>.
-  footer_improve: <a href="https://github.com/dtf-ein/dtf-ein.github.io/issues">Help us improve</a>.    
+  footer_hosted: <a href="https://github.com/DTS-STN">Hosted on GitHub</a>.
+  footer_improve: <a href="https://github.com/DTS-STN">Help us improve</a>.    
   home_url: home  
   language: English
   language_swap: Language swap
@@ -10,10 +10,17 @@ en:
   meta_title_acronym: DD
   canada_ca: Government of Canada
   canada_ca_url: https://www.canada.ca/en/
+  apply_url:
+  apply: Apply for the Dojo
+  contact_url: ../contactus
+  contact: Contact us
+  partners_url:
+  partners: Our Partners
+
 fr:
   continue_reading: Continuer à lire
-  footer_hosted: <a href="https://github.com/dtf-ein/dtf-ein.github.io">Hébergé sur GitHub</a>.
-  footer_improve: <a href="https://github.com/dtf-ein/dtf-ein.github.io/issues">Aidez-nous à améliorer</a>.
+  footer_hosted: <a href="https://github.com/DTS-STN">Hébergé sur GitHub</a>.
+  footer_improve: <a href="https://github.com/DTS-STN">Aidez-nous à améliorer</a>.
   home_url: accueil  
   language: Français
   language_swap: Sélection de la langue
@@ -22,3 +29,9 @@ fr:
   meta_title_acronym: DD
   canada_ca: Government of Canada
   canada_ca_url: https://www.canada.ca/fr/
+  apply_url:
+  apply: Apply for the Dojo
+  contact_url: ../contacteznous
+  contact: Contactez nous
+  partners_url:
+  partners: Our Partners

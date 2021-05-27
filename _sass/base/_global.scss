@@ -138,6 +138,8 @@ img[align=right] {
 .item1 {
   background: rgb(233,234,243);
   grid-gap: 1rem;
+  padding: 1.5rem;
+  border-radius: 1rem;
   ul {
     list-style: square inside url('../img/x.png');
   }
@@ -146,6 +148,8 @@ img[align=right] {
 .item2 {
   background: rgb(208,236,232);
   grid-gap: 1rem;
+  padding: 1.5rem;
+  border-radius: 1rem;
   ul {
     list-style: square inside url('../img/check.png');
   }

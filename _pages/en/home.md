@@ -51,7 +51,7 @@ Virtual Learning - We are designing the Dojo with virtual learning in mind. We w
 
 
 <div class="grid-plain">
-    <div>
+    <div class="center">
         <a href="{{ site.data.i18n[page.lang].apply_url | default: site.data.i18n.en.apply_url }}" aria-label="{{ site.data.i18n[page.lang].apply | default: site.data.i18n.en.apply }}\">
             <img src="../assets/img/Form_icon.png" />
 
@@ -60,7 +60,7 @@ Virtual Learning - We are designing the Dojo with virtual learning in mind. We w
         Open to ESDC only.
 
     </div>
-    <div>
+    <div class="center">
         <a href="{{ site.data.i18n[page.lang].contact_url | default: site.data.i18n.en.contact_url }}" aria-label="{{ site.data.i18n[page.lang].contact | default: site.data.i18n.en.contact }}\">
             <img src="../assets/img/Email_icon.png" />
         </a>
@@ -70,7 +70,7 @@ Virtual Learning - We are designing the Dojo with virtual learning in mind. We w
         Let's connect and chat!
 
     </div>
-    <div>
+    <div class="center">
         <a href="{{ site.data.i18n[page.lang].partner_url | default: site.data.i18n.en.partner_url }}" aria-label="{{ site.data.i18n[page.lang].partner | default: site.data.i18n.en.partner }}\">
             <img src="../assets/img/Partner_icon.png" />
         </a>

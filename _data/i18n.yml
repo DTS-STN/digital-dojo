@@ -5,12 +5,12 @@ en:
   home_url: home  
   language: English
   language_swap: Language swap
-  meta_description: The Digital Dojo is a small team in ESDC, IITB, DTS
+  meta_description: The Digital Dojo wants to help ESDC modernize service delivery
   meta_title: Digital Dojo
   meta_title_acronym: DD
   canada_ca: Government of Canada
   canada_ca_url: https://www.canada.ca/en/
-  apply_url:
+  apply_url: https://digitaldojo.hipporello.net/desk/form/5a32caaed7824f7fa7c48c897b3d4c3a/1006f5d650b74a8a99dd0a5f8322e9d9
   apply: Apply for the Dojo
   contact_url: ../contactus
   contact: Contact us
@@ -24,12 +24,12 @@ fr:
   home_url: accueil  
   language: Français
   language_swap: Sélection de la langue
-  meta_description: The Digital Dojo is a small team in ESDC, IITB, DTS
+  meta_description: The Digital Dojo wants to help ESDC modernize service delivery
   meta_title: Digital Dojo
   meta_title_acronym: DD
   canada_ca: Government of Canada
   canada_ca_url: https://www.canada.ca/fr/
-  apply_url:
+  apply_url: https://digitaldojo.hipporello.net/desk/form/5a32caaed7824f7fa7c48c897b3d4c3a/1006f5d650b74a8a99dd0a5f8322e9d9
   apply: Apply for the Dojo
   contact_url: ../contacteznous
   contact: Contactez nous

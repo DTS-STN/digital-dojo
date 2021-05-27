@@ -159,7 +159,7 @@ img[align=right] {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-gap: 1rem;
-
+  justify-items: center;
   img{
     height: 75px;
   }

@@ -14,7 +14,7 @@ en:
   apply: Apply for the Dojo
   contact_url: ../contactus
   contact: Contact us
-  partners_url:
+  partners_url: /partners
   partners: Our Partners
 
 fr:
@@ -33,5 +33,5 @@ fr:
   apply: Apply for the Dojo
   contact_url: ../contacteznous
   contact: Contactez nous
-  partners_url:
+  partners_url: ../partenaires
   partners: Our Partners

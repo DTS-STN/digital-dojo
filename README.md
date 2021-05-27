@@ -1,10 +1,8 @@
-[![circleci](https://img.shields.io/circleci/project/github/dtf-ein/dtf-ein.github.io.svg)](https://circleci.com/gh/dtf-ein/dtf-ein.github.io/)
-
 # Digital Dojo
 [Website for our team](https://dts-stn.github.io/digital-dojo/home/), working in Digital Technology Solutions within IITB at ESDC.
 
 # Local development
-1. Install [Ruby](https://www.ruby-lang.org/en/downloads/) ([troubleshooting](https://github.com/dtf-ein/dtf-ein.github.io/issues/1#issuecomment-530790560)).
+1. Install [Ruby](https://www.ruby-lang.org/en/downloads/) 
 1. Install bundler, dependencies and start the project:
 ```bash
 # Install bundler

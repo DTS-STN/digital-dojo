@@ -12,7 +12,7 @@ Vagrant.configure("2") do |config|
   config.vm.network "private_network", ip: "192.168.10.101"
 
   # Additional folders to sync between host and guest
-  config.vm.synced_folder "D:\\Development\\Projects\\DTF", "/home/vagrant/DTF"
+  config.vm.synced_folder "D:\\Development\\Projects\\DOJO", "/home/vagrant/DOJO"
 
   # Config VM
   config.vm.provider "virtualbox" do |vb|

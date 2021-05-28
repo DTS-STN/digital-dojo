@@ -6,7 +6,7 @@ ref: contacteznous
 permalink: /contacteznous/
 
 ---
-
+<script src="https://portal.hipporello.net/default/embed.js?formId=09189800e4e84be587017c5843ecf3db"></script>
 
 ## Contactez-nous
 - Courriel : [brittany.hurley@canada.ca](mailto:brittany.hurley@canada.ca)

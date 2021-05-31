@@ -6,12 +6,12 @@ title:
 permalink: /home/
 callout: >
     <h1 class="inv">Digital Dojo</h1>
-    <p class="margin-bottom-sm">"There are no secrets to success. It is the result of preparation, hard work, and learning from failure." - Colin Powell</p>
+    <p class="margin-bottom-sm">"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</p> - Colin Powell
 ---
 
 ## What's a Dojo?
 
-<div>
+<div class="grid">
 <p> A Dojo is a Japanese word for a space for immersive learning or meditation.​ The global DevOps community have embraced the concept of a Dojo for learning and implementing organizational transformation.​</p>
 
 <p> Digital Technology Solutions within IITB at ESDC is taking this concept and applying it to learning on the TBS Digital Standards, which are aligned to Agile and DevOps mindsets.

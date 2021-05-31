@@ -168,7 +168,11 @@ img[align=right] {
   border-radius: 1rem;
   img{
     height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
+  text-align: center;
 }
 
 

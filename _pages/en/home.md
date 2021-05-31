@@ -11,7 +11,7 @@ callout: >
 
 ## What's a Dojo?
 
-<div class="grid-plain">
+<div class="grid">
  
     <div> A Dojo is a Japanese word for a space for immersive learning or meditation.​ The global DevOps community have embraced the concept of a Dojo for learning and implementing organizational transformation.​
 

@@ -193,6 +193,9 @@ img[align=right] {
 
 .one-pager {
   display: grid;
-  grid-template-columns: 2;
+  grid-template-columns:250px;
   grid-gap: 1rem;
+  img{
+    height: 300px;
+  }
 }

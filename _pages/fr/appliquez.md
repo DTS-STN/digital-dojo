@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Apply
+title: Appliquez
 lang: fr
-ref: Apply
-permalink: /apply/
+ref: Appliquez
+permalink: /appliquez/
 
 ---
 <script src="https://portal.hipporello.net/default/embed.js?formId=dd4a0ec9697b485e9ca311611d2f67c4"></script>

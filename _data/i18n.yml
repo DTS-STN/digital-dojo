@@ -10,11 +10,11 @@ en:
   meta_title_acronym: DD
   canada_ca: Government of Canada
   canada_ca_url: https://www.canada.ca/en/
-  apply_url: /apply
+  apply_url: ../apply
   apply: Apply for the Dojo
-  contact_url: /contactus
+  contact_url: ../contactus
   contact: Contact us
-  partners_url: /partners
+  partners_url: ../partners
   partners: Our Partners
 
 fr:
@@ -29,7 +29,7 @@ fr:
   meta_title_acronym: DD
   canada_ca: Government of Canada
   canada_ca_url: https://www.canada.ca/fr/
-  apply_url: /apply
+  apply_url: ../application
   apply: Apply to the Dojo
   contact_url: ../contacteznous
   contact: Contactez nous

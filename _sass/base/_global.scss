@@ -155,6 +155,16 @@ img[align=right] {
   }
 }
 
+.one-pager {
+  grid-gap: 1rem;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  img{
+    height: 300px;
+  }
+}
+
+
 .grid-plain {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -189,13 +199,4 @@ img[align=right] {
   margin-left: auto;
   margin-right: auto;
   vertical-align: top;
-}
-
-.one-pager {
-  display: grid;
-  grid-template-columns:250px;
-  grid-gap: 1rem;
-  img{
-    height: 300px;
-  }
 }

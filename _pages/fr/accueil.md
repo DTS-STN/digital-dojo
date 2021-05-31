@@ -2,7 +2,7 @@
 layout: accueil
 lang: fr
 ref: accueil
-title:  
+title: Accueil 
 permalink: /accueil/
 callout: >
     <h1 class="inv">Digital Dojo</h1>

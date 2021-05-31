@@ -1,6 +1,6 @@
 ---
 layout: accueil
-lang: en
+lang: fr
 ref: accueil
 title:  
 permalink: /accueil/

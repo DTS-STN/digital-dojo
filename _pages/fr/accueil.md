@@ -11,7 +11,7 @@ callout: >
 
 ## What's a Dojo?
 
-<div class="grid">
+<div>
 <p> A Dojo is a Japanese word for a space for immersive learning or meditation.​ The global DevOps community have embraced the concept of a Dojo for learning and implementing organizational transformation.​</p>
 
 <p> Digital Technology Solutions within IITB at ESDC is taking this concept and applying it to learning on the TBS Digital Standards, which are aligned to Agile and DevOps mindsets.

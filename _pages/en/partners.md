@@ -8,4 +8,4 @@ permalink: /partners/
 ---
 
 
-## We like friends
+

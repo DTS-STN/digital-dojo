@@ -7,7 +7,5 @@ permalink: /contactus/
 
 ---
 
-
-## Get in touch
-- Dojo Manager: [stephanie.deguire@hrsdc-rhdcc.gc.ca](mailto:stephanie.deguire@hrsdc-rhdcc.gc.ca)
+<script src="https://portal.hipporello.net/default/embed.js?formId=09189800e4e84be587017c5843ecf3db"></script>
 

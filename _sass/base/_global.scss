@@ -190,3 +190,9 @@ img[align=right] {
   margin-right: auto;
   vertical-align: top;
 }
+
+.one-pager {
+  display: grid;
+  grid-template-columns: 2;
+  grid-gap: 1rem;
+}

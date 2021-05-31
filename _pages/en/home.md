@@ -18,7 +18,7 @@ Digital Technology Solutions within IITB at ESDC is taking this concept and appl
 Our Digital Dojo aims to provide an immersive virtual space where ESDC product teams can learn new skills and new ways to solve common problems with the help and guidance of GC Experts.
 </div>
 <div class="one-pager">
-    <img src="../assets/img/one-pager.png"/>
+    <a href="../assets/img/one-pager.PNG" alt="Digital Dojo one-pager"><img src="../assets/img/one-pager.PNG"/></a>
 </div>
 
 ## What the Digital Dojo is and isn't

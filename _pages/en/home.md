@@ -45,11 +45,14 @@ Our Digital Dojo aims to provide an immersive virtual space where ESDC product t
 
 ## Why our Dojo?
 
-Team Based Experience - We upskill a whole team – business and IT - together.​ This builds trust, mutual​understanding, cohesion and​collaboration
+### Team Based Experience 
+We upskill a whole team – business and IT - together.​ This builds trust, mutual​understanding, cohesion and​collaboration
 
-Government of Canada Focus - We cater our experienced based on realistic Government of Canada IT practices, standards,​ languages and challenges.
+### Government of Canada Focus
+We cater our experienced based on realistic Government of Canada IT practices, standards,​ languages and challenges.
 
-Virtual Learning - We are designing the Dojo with virtual learning in mind. We will also help teams learn how to work together more effectively in this new world.
+### Virtual Learning
+We are designing the Dojo with virtual learning in mind. We will also help teams learn how to work together more effectively in this new world.
 
 ## Get in touch
 

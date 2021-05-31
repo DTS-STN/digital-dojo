@@ -135,6 +135,13 @@ img[align=right] {
 
 }
 
+.grid2 {
+  display: grid;
+  grid-template-columns: 400px 100px;
+  grid-gap: 1rem;
+
+}
+
 .item1 {
   background: rgb(233,234,243);
   grid-gap: 1rem;

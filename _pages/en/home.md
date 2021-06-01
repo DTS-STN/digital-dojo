@@ -84,14 +84,14 @@ We are designing the Dojo with virtual learning in mind. We will also help teams
         <p>Let's connect and chat!</p>
 
     </div>
-    <div class="center">
+   <!-- <div class="center">
         <a href="{{ site.data.i18n[page.lang].partner_url | default: site.data.i18n.en.partner_url }}" aria-label="{{ site.data.i18n[page.lang].partner | default: site.data.i18n.en.partner }}\">
             <img src="../assets/img/Partner_icon_circle.png" />
             <h4>Our Partners</h4>
         </a>
         <p>Meet friends of the Dojo!</p>
 
-    </div>
+    </div> -->
 </div>
 
 

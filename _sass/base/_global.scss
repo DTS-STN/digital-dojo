@@ -90,7 +90,12 @@ dt {
 dd {
     margin-left: 2em;
 }
-p, ol, ul, dl, .math-display {
+
+ol, ul, dl {
+  margin-bottom: 0em;
+}
+
+p .math-display {
   line-height: 1.5;
   margin-bottom: 1em;
 }

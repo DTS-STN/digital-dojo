@@ -6,7 +6,7 @@ title:
 permalink: /home/
 callout: >
     <h1 class="inv">Digital Dojo</h1>
-    <p class="margin-bottom-sm">"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</p> - Colin Powell
+    <p class="margin-bottom-sm">"There are no secrets to success. It is the result of preparation, hard work, and learning from failure." <br> - Colin Powell </p>
 ---
 
 ## What's a Dojo?

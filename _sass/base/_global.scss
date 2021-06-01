@@ -95,6 +95,11 @@ ol, ul, dl {
   margin-bottom: 0em;
 }
 
+p {
+  padding-top: 0em !important;
+  padding-bottom: 1em !important;
+}
+
 p .math-display {
   line-height: 1.5;
   margin-bottom: 1em;

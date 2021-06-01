@@ -6,55 +6,56 @@ title: Accueil
 permalink: /accueil/
 callout: >
     <h1 class="inv">Digital Dojo</h1>
-    <p class="margin-bottom-sm">"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</p> - Colin Powell
+    <p class="margin-bottom-sm">"Il n’y a pas de secrets au succès. C’est le résultat de la préparation, du travail acharné et de l’apprentissage à la suite de l’échec"<br> - Colin Powell </p>
 ---
 
-## What's a Dojo?
+## Qu'est-ce qu'un Dojo?
 
 <div>
-<p> A Dojo is a Japanese word for a space for immersive learning or meditation.​ The global DevOps community have embraced the concept of a Dojo for learning and implementing organizational transformation.​</p>
+<p> Un Dojo est un mot japonais désignant un espace d'apprentissage immersif ou de méditation. La communauté mondiale DevOps a adopté les DevOps Dojo pour favoriser l’apprentissage et la transformation organisationnelle.</p>
 
-<p> Digital Technology Solutions within IITB at ESDC is taking this concept and applying it to learning on the TBS Digital Standards, which are aligned to Agile and DevOps mindsets.
-Our Digital Dojo aims to provide an immersive virtual space where ESDC product teams can learn new skills and new ways to solve common problems with the help and guidance of GC Experts. </p>
+<p> Digital Technology Solutions within IITB at ESDC is taking this concept and applying it to learning on the TBS Digital Standards, which are aligned to Agile and DevOps mindsets.</p>
+    
+<p>Our Digital Dojo aims to provide an immersive virtual space where ESDC product teams can learn new skills and new ways to solve common problems with the help and guidance of GC Experts. </p>
 </div>
 <div class="one-pager">
     <a href="../assets/img/one-pager.PNG" alt="Digital Dojo one-pager"><img src="../assets/img/one-pager.PNG"/></a>
 </div>
 
-## What the Digital Dojo is and isn't
+## Ce qu'est et n'est pas le Dojo numérique
 
 <div class="grid">
     <div class="item1">
         <ul>
-            <li> Classroom Training </li>
-            <li> A center of Expertise </li>
-            <li> Abstract or High-Level Theory </li>
-            <li> Exercises with predefined Answers </li>
+            <li> Formation en classe </li>
+            <li> Un centre d'expertise </li>
+            <li> Leçons abstraites ou théoriques </li>
+            <li> Exercises avec réponses prédéfinies </li>
         </ul>
     </div>
 
     <div class="item2" >
         <ul>
-            <li> Practical & immersive experience</li>
-            <li> Experts working directly with your team </li>
-            <li> Learn while working on a real product </li>
-            <li> Customized to your objectives </li>
+            <li> Expérience pratique et immersive </li>
+            <li> Des experts travaillent avec votre équipe </li>
+            <li> Nous travaillons avec vous sur votre vrai produit </li>
+            <li> Personnalisé selon vos objectifs </li>
         </ul>
     </div>
 </div>
 
-## Why our Dojo?
+## Pourquoi notre Dojo?
 
-### Team Based Experience 
-We upskill a whole team – business and IT - together.​ This builds trust, mutual​understanding, cohesion and​collaboration
+### Expérience en équipe 
+Le dojo se concentre sur la livraison en équipe. Ceci renforce la confiance, la compréhension mutuelle, la cohésion et la collaboration.
 
-### Government of Canada Focus
-We cater our experienced based on realistic Government of Canada IT practices, standards,​ languages and challenges.
+### Government du Canada
+Une expérience basée sur les réalités des pratiques du GdC – normes, vocabulaire et défis liés a la livraison des produits.
 
-### Virtual Learning
-We are designing the Dojo with virtual learning in mind. We will also help teams learn how to work together more effectively in this new world.
+### Apprentissage virtuel
+Le dojo a été conçu avec l'apprentissage virtuel en tête. Nous aidons aussi les équipes à travailler ensemble plus efficacement dans ce nouveau monde.
 
-## Get in touch
+## Contactez-nous
 
 
 <div class="grid-plain">
@@ -75,14 +76,14 @@ We are designing the Dojo with virtual learning in mind. We will also help teams
         <p>Let's connect and chat!</p>
 
     </div>
-    <div class="center">
+    <!-- <div class="center">
         <a href="{{ site.data.i18n[page.lang].partner_url | default: site.data.i18n.en.partner_url }}" aria-label="{{ site.data.i18n[page.lang].partner | default: site.data.i18n.en.partner }}\">
             <img src="../assets/img/Partner_icon_circle.png" />
             <h4>Our Partners</h4>
         </a>
         <p>Meet friends of the Dojo!</p>
 
-    </div>
+    </div> -->
 </div>
 
 

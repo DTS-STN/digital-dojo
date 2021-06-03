@@ -1,5 +1,5 @@
 ---
-layout: accueil
+layout: home
 lang: fr
 ref: home
 title: Accueil 

@@ -45,7 +45,8 @@ h2 {
   font-size: 1.6em;
 }
 h3 {
-  font-size: 1.3em;
+  font-size: 1.1em;
+  color: rgb(208,236,232);
 }
 h4 {
   font-size: 1em;
@@ -176,6 +177,7 @@ img[align=right] {
     list-style: square inside url('../img/check.png');
   }
   img{
+    height: 60px;
     display: block;
     margin-left: auto;
     margin-right: auto;

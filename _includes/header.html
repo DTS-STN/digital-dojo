@@ -3,7 +3,13 @@
 	<div class="fip-bar">
 		<a href="{{ site.data.i18n[page.lang].canada_ca_url | default: site.data.i18n.en.canada_ca_url }}" aria-label="{{ site.data.i18n[page.lang].canada_ca | default: site.data.i18n.en.canada_ca }}">
 			<img src="{{ site.baseurl }}/assets/img/sig-blk-{{ page.lang | default: 'en' }}.svg" class="fip" alt="{{ site.data.i18n[page.lang].canada_ca | default: site.data.i18n.en.canada_ca }}" >
+			
 		</a>
+
+		{{ site.data.i18n[content.lang].language }}
+		{{ content.lang }} 
+		{{ page.lang }}
+
 		{% if page.hide != true and page.lang %}
 		<section id="lang-swap">
 			<h2 class="inv">{{ site.data.i18n[page.lang].language_swap }}</h2>
@@ -13,7 +19,11 @@
 				{% assign all_content = posts | concat: pages %}
 				{% for content in all_content %}
 					{% if content.lang != page.lang %}
-						<li><a class="page-link" lang="{{ content.lang }}" hreflang="{{ content.lang }}" href="{{ content.url | prepend: site.baseurl }}">{{ site.data.i18n[content.lang].language }}</a></li>
+						<li>
+							<a class="page-link" lang="{{ content.lang }}" hreflang="{{ content.lang }}" href="{{ content.url | prepend: site.baseurl }}">{{ site.data.i18n[content.lang].language }}
+
+							</a>
+						</li>
 						{% break %}
 					{% endif %}
 				{% endfor %}  

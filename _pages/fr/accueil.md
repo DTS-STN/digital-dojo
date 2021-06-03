@@ -33,6 +33,8 @@ callout: >
 
 ## Ce qu'est et n'est pas le Dojo numérique
 
+We aim to provide an engaging virtual learning experience catered to your team, and your goals. Because of that, there is no standard definition for what a Dojo experience will be, but we do know they type of experience we'd like to create.
+
 <div class="grid">
     <div class="item1">
         <img src="../assets/img/thumb_down.png" />

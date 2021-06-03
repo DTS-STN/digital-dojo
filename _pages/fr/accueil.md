@@ -14,17 +14,18 @@ callout: >
 <div class="grid2">
     <div>
         <p> 
-        Un Dojo est un mot japonais désignant un espace d'apprentissage immersif ou de méditation. La communauté mondiale DevOps a adopté les DevOps Dojo pour favoriser l’apprentissage et la transformation organisationnelle.
+            Un Dojo est un mot japonais désignant un espace d'apprentissage immersif ou de méditation. La communauté mondiale DevOps a adopté les DevOps Dojo pour favoriser l’apprentissage et la transformation organisationnelle.
         </p>
 
         <p> 
-        Digital Technology Solutions within IITB at ESDC is taking this concept and applying it to learning on the TBS Digital Standards, which are aligned to Agile and DevOps mindsets.
+            Digital Technology Solutions within IITB at ESDC is taking this concept and applying it to learning on the TBS Digital Standards, which are aligned to Agile and DevOps mindsets.
         </p>
-        
+            
         <p>Our Digital Dojo aims to provide an immersive virtual space where ESDC product teams can learn new skills and new ways to solve common problems with the help and guidance of GC Experts. </p>
-    <div class="one-pager">
-        <a href="../assets/img/one-pager.PNG" alt="Digital Dojo one-pager"><img src="../assets/img/one-pager.PNG"/></a>
-        View our one-pager
+        <div class="one-pager">
+            <a href="../assets/img/one-pager.PNG" alt="Digital Dojo one-pager"><img src="../assets/img/one-pager.PNG"/></a>
+            View our one-pager
+        </div>
     </div>
 </div>
 

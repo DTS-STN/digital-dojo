@@ -6,7 +6,7 @@ title:
 permalink: /home/
 callout: >
     <h1 class="inv">Digital Dojo</h1>
-    <p class="margin-bottom-sm">"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</p> - Colin Powell
+    <p class="margin-bottom-sm">"A quote will go here from a woman, or a member of a BIPOC community"</p> -Britt
 ---
 
 ## What's a Dojo?
@@ -28,6 +28,7 @@ callout: >
     </div>
 </div>
 
+<p><img src="../assets/img/decorative-dots.png" class="dots" role="presentation" ></p>
 
 
 ## What the Digital Dojo is and isn't
@@ -57,6 +58,8 @@ We aim to provide an engaging virtual learning experience catered to your team, 
     </div>
 </div>
 
+<p><img src="../assets/img/decorative-dots.png" class="dots" role="presentation" ></p>
+
 ## Why our Dojo?
 
 ### Team Based Experience 
@@ -68,8 +71,9 @@ We cater our experienced based on realistic Government of Canada IT practices, s
 ### Virtual Learning
 We are designing the Dojo with virtual learning in mind. We will also help teams learn how to work together more effectively in this new world.
 
-## Get in touch
+<p><img src="../assets/img/decorative-dots.png" class="dots" role="presentation" ></p>
 
+## Get in touch
 
 <div class="grid-plain">
     <div class="center">

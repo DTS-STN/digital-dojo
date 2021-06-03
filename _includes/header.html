@@ -12,7 +12,9 @@
 				<ul>
 					
 					{% assign posts = site.posts | where:"ref", page.ref | sort: 'lang' %}
+					{{posts}}
 					{% assign pages = site.pages | where:"ref", page.ref | sort: 'lang' %}
+					{{pages}}
 					{% assign all_content = posts | concat: pages %}
 					{% for content in all_content %}
 						{% if content.lang != page.lang %}

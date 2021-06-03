@@ -2,7 +2,7 @@
 layout: home
 title: Appliquez
 lang: fr
-ref: Appliquez
+ref: appliquez
 permalink: /appliquez/
 
 ---

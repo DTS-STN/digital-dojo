@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Accueil
-lang: fr
+lang: en
 ref: home
-permalink: /accueil/
+title:  
+permalink: /home/
 callout: >
-    <h1 class="inv">L’Équipe d’intervention numérique</h1>
-    <p class="font-xl margin-bottom-sm">Fix this</p>
+    <h1 class="inv">Digital Dojo</h1>
+    <p class="margin-bottom-sm">"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</p> - Colin Powell
 ---
 
 ## What's a Dojo?
@@ -18,7 +18,7 @@ callout: >
 
         <p>Digital Technology Solutions within IITB at ESDC is taking this concept and applying it to learning on the TBS Digital Standards, which are aligned to Agile and DevOps mindsets.</p>
 
-        <p> Our Digital Dojo aims to provide an immersive virtual space where ESDC product teams can learn new skills and new ways to solve common problems with the help and guidance of GC Experts. </p>
+        <p> Our Digital Dojo aims to provide an immersive virtual space where ESDC product teams can learn new skills and new ways to solve common problems with the help and guidance of GC Experts. 
     </div>
 
     <div class="one-pager">
@@ -84,14 +84,14 @@ We are designing the Dojo with virtual learning in mind. We will also help teams
         <p>Let's connect and chat!</p>
 
     </div>
-   <!-- <div class="center">
+    <div class="center">
         <a href="{{ site.data.i18n[page.lang].partner_url | default: site.data.i18n.en.partner_url }}" aria-label="{{ site.data.i18n[page.lang].partner | default: site.data.i18n.en.partner }}\">
             <img src="../assets/img/Partner_icon_circle.png" />
             <h4>Our Partners</h4>
         </a>
         <p>Meet friends of the Dojo!</p>
 
-    </div> -->
+    </div>
 </div>
 
 

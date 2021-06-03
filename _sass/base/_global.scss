@@ -160,6 +160,11 @@ img[align=right] {
   ul {
     list-style: square inside url('../img/x.png');
   }
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 .item2 {
@@ -169,6 +174,11 @@ img[align=right] {
   border-radius: 1rem;
   ul {
     list-style: square inside url('../img/check.png');
+  }
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 

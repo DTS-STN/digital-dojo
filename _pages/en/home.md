@@ -33,6 +33,7 @@ callout: >
 ## What the Digital Dojo is and isn't
 
 <div class="grid">
+    <img src="../assets/img/thumb_down.png" />
     <div class="item1">
         <ul>
             <li> Classroom Training </li>
@@ -43,6 +44,7 @@ callout: >
     </div>
 
     <div class="item2" >
+        <img src="../assets/img/thumb_up.png" />
         <ul>
             <li> Practical & immersive experience</li>
             <li> Experts working directly with your team </li>

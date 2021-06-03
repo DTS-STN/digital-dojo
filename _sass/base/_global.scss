@@ -39,6 +39,7 @@ h1, h2, h3, h4, h5, h6 {
   color: rgba(83,127,190,1);
 }
 h1 {
+  margin: 1em 0;
   font-size: 1.8em;
 }
 h2 {
@@ -238,4 +239,10 @@ img[align=right] {
 .call-out {
   padding-top: 0em !important;
   padding-bottom: 1em !important;
+}
+
+.dots {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
 }

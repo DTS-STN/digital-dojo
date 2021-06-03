@@ -1,7 +1,7 @@
 ---
 layout: accueil
 lang: fr
-ref: accueil
+ref: home
 title: Accueil 
 permalink: /accueil/
 callout: >

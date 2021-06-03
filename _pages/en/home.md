@@ -1,12 +1,12 @@
 ---
 layout: home
-lang: en
+title: Accueil
+lang: fr
 ref: home
-title:  
-permalink: /home/
+permalink: /accueil/
 callout: >
-    <h1 class="inv">Digital Dojo</h1>
-    <p class="margin-bottom-sm">"There are no secrets to success. It is the result of preparation, hard work, and learning from failure." <br> - Colin Powell </p>
+    <h1 class="inv">L’Équipe d’intervention numérique</h1>
+    <p class="font-xl margin-bottom-sm">Fix this</p>
 ---
 
 ## What's a Dojo?

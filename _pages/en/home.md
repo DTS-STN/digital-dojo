@@ -33,8 +33,9 @@ callout: >
 ## What the Digital Dojo is and isn't
 
 <div class="grid">
-    <img src="../assets/img/thumb_down.png" />
+    
     <div class="item1">
+    <img src="../assets/img/thumb_down.png" />
         <ul>
             <li> Classroom Training </li>
             <li> A center of Expertise </li>

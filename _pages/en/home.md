@@ -79,7 +79,7 @@ We are designing the Dojo with virtual learning in mind. We will also help teams
     
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].learn_url | default: site.data.i18n.en.learn_url }}" aria-label="{{ site.data.i18n[page.lang].learn | default: site.data.i18n.en.learn }}\">
-            <img src="../assets/img/Info_icon.png" />
+            <img src="../assets/img/Info-icon.png" />
             <h4>Learn more</h4>
         </a>
         <p></p>

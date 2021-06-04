@@ -92,7 +92,7 @@ We are designing the Dojo with virtual learning in mind. We will also help teams
 
             <h4>Apply to the Dojo</h4>
         </a>
-        <p>Open to ESDC only.</p>
+        
 
     </div>
     <div class="center">
@@ -100,7 +100,7 @@ We are designing the Dojo with virtual learning in mind. We will also help teams
             <img src="../assets/img/Email_icon_circle.png" />
             <h4>Contact us</h4>
         </a>
-        <p>Let's connect and chat!</p>
+        
 
     </div>
 

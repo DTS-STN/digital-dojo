@@ -6,7 +6,7 @@ title:
 permalink: /home/
 callout: >
     <h1 class="inv">Digital Dojo</h1>
-    <p class="margin-bottom-sm">"A quote will go here from a woman, or a member of a BIPOC community"</p> -Britt
+    <p class="margin-bottom-sm">“Next to trying and winning, the best thing is trying and failing.” — L.M. Montgomery</p>
 ---
 
 ## What's a Dojo?

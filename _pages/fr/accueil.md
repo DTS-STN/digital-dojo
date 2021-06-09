@@ -6,7 +6,7 @@ title: Accueil
 permalink: /accueil/
 callout: >
     <h1 class="inv">Digital Dojo</h1>
-    <p class="margin-bottom-sm">"Il n’y a pas de secrets au succès. C’est le résultat de la préparation, du travail acharné et de l’apprentissage à la suite de l’échec"<br> - Colin Powell </p>
+    <p class="margin-bottom-sm">“Next to trying and winning, the best thing is trying and failing.” — L.M. Montgomery</p>
 ---
 
 ## Qu'est-ce qu'un Dojo?

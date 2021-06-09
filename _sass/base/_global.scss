@@ -202,7 +202,7 @@ img[align=right] {
 
 .grid-plain {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: 33% 33% 33%;
   grid-gap: 1rem;
 
   img{

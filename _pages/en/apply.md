@@ -4,10 +4,9 @@ title: Apply for the Dojo
 lang: en
 ref: apply
 permalink: /apply/
-
 ---
 
-###You have learned what we do and you think we would be able to help your team? Please fill out this form and we will contact you shortly!
+### You have learned what we do and you think we would be able to help your team? Please fill out this form and we will contact you shortly!
 
 We highly value accessibility, and we're working with Hipporello to address the accessibility issues with their service. 
 

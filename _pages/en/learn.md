@@ -5,6 +5,7 @@ lang: en
 ref: learn
 permalink: /learn/
 ---
+
 ### Not sure if the dojo is a good fit for your team? Meet our team, find out more about the dojo experience and see if it's the right place for you.
 
 We highly value accessibility, and we're working with Hipporello to address the accessibility issues with their service. 

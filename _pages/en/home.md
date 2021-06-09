@@ -14,7 +14,7 @@ callout: >
 <div class="grid2">
  
     <div>
-        <p> A Dojo is a Japanese word for a space for immersive learning or meditation.​ The global DevOps community have embraced the concept of a Dojo for learning and implementing organizational transformation.​ </p>
+        <p> A Dojo is a Japanese word for a space for immersive learning or meditation. The global DevOps community have embraced the concept of a Dojo for learning and implementing organizational transformation.</p>
 
         <p>Digital Technology Solutions within IITB at ESDC is taking this concept and applying it to learning on the TBS Digital Standards, which are aligned to Agile and DevOps mindsets.</p>
 
@@ -22,7 +22,7 @@ callout: >
     </div>
 
     <div class="one-pager">
-        <a href="../assets/img/Team_charter.png" alt="Digital Dojo one-pager"><img src="../assets/img/Team_charter.png"/></a>
+        <a href="../assets/img/Team_charter_EN.png" alt="Digital Dojo one-pager"><img src="../assets/img/Team_charter_EN.png" alt="Digital Dojo one-pager"/></a>
         <p>View our Team Charter</p>
         
     </div>
@@ -38,7 +38,7 @@ We aim to provide an engaging virtual learning experience catered to your team, 
 <div class="grid">
     
     <div class="item1">
-    <img src="../assets/img/thumb_down.png" />
+    <img src="../assets/img/thumb_down.png" alt="Thumbs down icon"/>
         <ul>
             <li> Classroom Training </li>
             <li> A center of Expertise </li>
@@ -48,7 +48,7 @@ We aim to provide an engaging virtual learning experience catered to your team, 
     </div>
 
     <div class="item2" >
-        <img src="../assets/img/thumb_up.png" />
+        <img src="../assets/img/thumb_up.png" alt="Thumbs up icon"/>
         <ul>
             <li> Practical & immersive experience</li>
             <li> Experts working directly with your team </li>
@@ -79,8 +79,8 @@ We are designing the Dojo with virtual learning in mind. We will also help teams
     
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].learn_url | default: site.data.i18n.en.learn_url }}" aria-label="{{ site.data.i18n[page.lang].learn | default: site.data.i18n.en.learn }}\">
-            <img src="../assets/img/Info-icon.png" />
-            <h4>Learn more</h4>
+            <img src="../assets/img/Info-icon.png" alt="Learn more information icon"/>
+            <h3>Learn more</h3>
         </a>
         <p></p>
 
@@ -88,16 +88,16 @@ We are designing the Dojo with virtual learning in mind. We will also help teams
     
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].apply_url | default: site.data.i18n.en.apply_url }}" aria-label="{{ site.data.i18n[page.lang].apply | default: site.data.i18n.en.apply }}\">
-            <img src="../assets/img/Form_icon_circle.png" />
-            <h4>Apply to the Dojo</h4>
+            <img src="../assets/img/Form_icon_circle.png" alt="Apply to the Dojo form icon"/>
+            <h3>Apply to the Dojo</h3>
         </a>
         
 
     </div>
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].contact_url | default: site.data.i18n.en.contact_url }}" aria-label="{{ site.data.i18n[page.lang].contact | default: site.data.i18n.en.contact }}\">
-            <img src="../assets/img/Email_icon_circle.png" />
-            <h4>Contact us</h4>
+            <img src="../assets/img/Email_icon_circle.png" alt="Contact us email icon"/>
+            <h3>Contact us</h3>
         </a>
         
 

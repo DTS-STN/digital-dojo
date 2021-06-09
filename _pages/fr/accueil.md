@@ -26,7 +26,7 @@ callout: >
     </div>
 
     <div class="one-pager">
-        <a href="../assets/img/one-pager.PNG" alt="Digital Dojo one-pager"><img src="../assets/img/one-pager.PNG"/></a>
+        <a href="../assets/img/Team_charter_FR.png" alt="Digital Dojo one-pager"><img src="../assets/img/Team_charter_FR.png"/></a>
         Voir notre page d'accueil
     </div>
     

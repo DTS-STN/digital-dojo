@@ -7,9 +7,10 @@ permalink: /decouverte-fb/
 
 ---
 
-### Disocvery Phase - Feedback
+### Discovery Phase - Feedback
 
-Thank you for going through the Disocvery phase with our Digital Dojo team. In order to improve our service, we would appreciate any feedback you and your team have about the experience.
+Thank you for going through the Discovery phase with our Digital Dojo team. In order to improve our service, we would appreciate any feedback you and your team have about the experience.
+
 
 
 

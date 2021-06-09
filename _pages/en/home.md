@@ -22,7 +22,7 @@ callout: >
     </div>
 
     <div class="one-pager">
-        <a href="../assets/img/one-pager.PNG" alt="Digital Dojo one-pager"><img src="../assets/img/one-pager.PNG"/></a>
+        <a href="../assets/img/one-pager.PNG" alt="Digital Dojo one-pager"><img src="../assets/img/Team_charter.PNG"/></a>
         <p>View our one-pager</p>
         
     </div>

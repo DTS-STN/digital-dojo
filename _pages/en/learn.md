@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Our Partners
+title: Learn more
 lang: en
 ref: learn
 permalink: /learn/

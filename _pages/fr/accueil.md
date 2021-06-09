@@ -27,14 +27,14 @@ callout: >
 
     <div class="one-pager">
         <a href="../assets/img/one-pager.PNG" alt="Digital Dojo one-pager"><img src="../assets/img/one-pager.PNG"/></a>
-        View our one-pager
+        Voir notre page d'accueil
     </div>
     
 </div>
 
 ## Ce qu'est et n'est pas le Dojo numérique
 
-We aim to provide an engaging virtual learning experience catered to your team, and your goals. Because of that, there is no standard definition for what a Dojo experience will be, but we do know they type of experience we'd like to create.
+Notre objectif est de fournir une expérience d'apprentissage virtuelle agréable, adaptée à votre équipe et à vos objectifs. Pour cette raison, il n'y a pas de définition précise de ce que sera une expérience Dojo, mais nous savons quel type d'expérience nous voulons créer.
 
 <div class="grid">
     <div class="item1">
@@ -73,31 +73,32 @@ Le dojo a été conçu avec l'apprentissage virtuel en tête. Nous aidons aussi 
 
 
 <div class="grid-plain">
+
     <div class="center">
-        <a href="{{ site.data.i18n[page.lang].apply_url | default: site.data.i18n.en.apply_url }}" aria-label="{{ site.data.i18n[page.lang].apply | default: site.data.i18n.en.apply }}\">
+        <a href="{{ site.data.i18n[page.lang].learn_url | default: site.data.i18n.fr.learn_url }}" aria-label="{{ site.data.i18n[page.lang].learn | default: site.data.i18n.fr.learn }}\">
+            <img src="../assets/img/Info-icon.png" />
+            <h4>Learn more</h4>
+        </a>
+        <p></p>
+
+    </div>
+
+    <div class="center">
+        <a href="{{ site.data.i18n[page.lang].apply_url | default: site.data.i18n.fr.apply_url }}" aria-label="{{ site.data.i18n[page.lang].apply | default: site.data.i18n.fr.apply }}\">
             <img src="../assets/img/Form_icon_circle.png" />
 
-            <h4>Apply to the Dojo</h4>
+            <h4>Inscrivez-vous au dojo</h4>
         </a>
-        <p>Open to ESDC only.</p>
 
     </div>
     <div class="center">
-        <a href="{{ site.data.i18n[page.lang].contact_url | default: site.data.i18n.en.contact_url }}" aria-label="{{ site.data.i18n[page.lang].contact | default: site.data.i18n.en.contact }}\">
+        <a href="{{ site.data.i18n[page.lang].contact_url | default: site.data.i18n.fr.contact_url }}" aria-label="{{ site.data.i18n[page.lang].contact | default: site.data.i18n.fr.contact }}\">
             <img src="../assets/img/Email_icon_circle.png" />
-            <h4>Contact us</h4>
+            <h4>Contactez-nous</h4>
         </a>
-        <p>Let's connect and chat!</p>
 
     </div>
-    <!-- <div class="center">
-        <a href="{{ site.data.i18n[page.lang].partner_url | default: site.data.i18n.en.partner_url }}" aria-label="{{ site.data.i18n[page.lang].partner | default: site.data.i18n.en.partner }}\">
-            <img src="../assets/img/Partner_icon_circle.png" />
-            <h4>Our Partners</h4>
-        </a>
-        <p>Meet friends of the Dojo!</p>
 
-    </div> -->
 </div>
 
 

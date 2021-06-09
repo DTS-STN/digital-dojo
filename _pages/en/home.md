@@ -80,7 +80,7 @@ We are designing the Dojo with virtual learning in mind. We will also help teams
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].learn_url | default: site.data.i18n.en.learn_url }}" aria-label="{{ site.data.i18n[page.lang].learn | default: site.data.i18n.en.learn }}\">
             <img src="../assets/img/Info-icon.png" alt="Learn more information icon"/>
-            <h4>Learn more</h4>
+            <h3>Learn more</h3>
         </a>
         <p></p>
 
@@ -89,7 +89,7 @@ We are designing the Dojo with virtual learning in mind. We will also help teams
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].apply_url | default: site.data.i18n.en.apply_url }}" aria-label="{{ site.data.i18n[page.lang].apply | default: site.data.i18n.en.apply }}\">
             <img src="../assets/img/Form_icon_circle.png" alt="Apply to the Dojo form icon"/>
-            <h4>Apply to the Dojo</h4>
+            <h3>Apply to the Dojo</h3>
         </a>
         
 
@@ -97,7 +97,7 @@ We are designing the Dojo with virtual learning in mind. We will also help teams
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].contact_url | default: site.data.i18n.en.contact_url }}" aria-label="{{ site.data.i18n[page.lang].contact | default: site.data.i18n.en.contact }}\">
             <img src="../assets/img/Email_icon_circle.png" alt="Contact us email icon"/>
-            <h4>Contact us</h4>
+            <h3>Contact us</h3>
         </a>
         
 

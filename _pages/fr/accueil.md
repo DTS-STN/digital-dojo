@@ -85,7 +85,7 @@ Nous concevons le Dojo avec l'apprentissage virtuel en tête. Nous aiderons éga
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].learn_url | default: site.data.i18n.fr.learn_url }}" aria-label="{{ site.data.i18n[page.lang].learn | default: site.data.i18n.fr.learn }}\">
             <img src="../assets/img/Info-icon.png" alt=""/>
-            <h4>Learn more</h4>
+            <h3>Learn more</h3>
         </a>
         <p></p>
 
@@ -95,14 +95,14 @@ Nous concevons le Dojo avec l'apprentissage virtuel en tête. Nous aiderons éga
         <a href="{{ site.data.i18n[page.lang].apply_url | default: site.data.i18n.fr.apply_url }}" aria-label="{{ site.data.i18n[page.lang].apply | default: site.data.i18n.fr.apply }}\">
             <img src="../assets/img/Form_icon_circle.png" alt=""/>
 
-            <h4>Inscrivez-vous au dojo</h4>
+            <h3>Inscrivez-vous au dojo</h3>
         </a>
 
     </div>
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].contact_url | default: site.data.i18n.fr.contact_url }}" aria-label="{{ site.data.i18n[page.lang].contact | default: site.data.i18n.fr.contact }}\">
             <img src="../assets/img/Email_icon_circle.png" alt=""/>
-            <h4>Contactez-nous</h4>
+            <h3>Contactez-nous</h3>
         </a>
 
     </div>

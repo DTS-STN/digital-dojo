@@ -6,7 +6,7 @@ title: Accueil
 permalink: /accueil/
 callout: >
     <h1 class="inv">Digital Dojo</h1>
-    <p class="margin-bottom-sm">“Next to trying and winning, the best thing is trying and failing.” — L.M. Montgomery</p>
+    <p class="margin-bottom-sm">“Outre d'essayer et de réussir, la meilleure chose est d'essayer et d'échouer." - L.M. Montgomery</p>
 ---
 
 ## Qu'est-ce qu'un Dojo?

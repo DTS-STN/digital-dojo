@@ -22,7 +22,7 @@ callout: >
         </p>
             
         <p>
-        Our Digital Dojo aims to provide an immersive virtual space where ESDC product teams can learn new skills and new ways to solve common problems with the help and guidance of GC Experts. </p>
+        Notre Dojo digital vise à fournir un espace virtuel immersif où les équipes de produits de l'EDSC peuvent apprendre de nouvelles compétences et de nouvelles façons de résoudre des problèmes courants avec l'aide et les conseils des experts du GC. </p>
     </div>
 
     <div class="one-pager">

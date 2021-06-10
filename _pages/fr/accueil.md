@@ -51,7 +51,7 @@ Notre objectif est de fournir une expérience d'apprentissage virtuelle agréabl
     </div>
 
     <div class="item2" >
-        <img src="../assets/img/thumb_up.png" "Ce que le Dojo numérique"/>
+        <img src="../assets/img/thumb_up.png" alt="Ce que le Dojo numérique"/>
         <ul>
             <li> Expérience pratique et immersive </li>
             <li> Des experts qui travaillent avec votre équipe </li>

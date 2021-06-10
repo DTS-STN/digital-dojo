@@ -85,7 +85,7 @@ Nous concevons le Dojo avec l'apprentissage virtuel en tête. Nous aiderons éga
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].learn_url | default: site.data.i18n.fr.learn_url }}" aria-label="{{ site.data.i18n[page.lang].learn | default: site.data.i18n.fr.learn }}\">
             <img src="../assets/img/Info-icon.png" alt=""/>
-            <h3>Learn more</h3>
+            <h3>En savoir plus</h3>
         </a>
         <p></p>
 

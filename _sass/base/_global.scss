@@ -190,8 +190,8 @@ img[align=right] {
   grid-gap: 1rem;
   padding-left: 1.5rem;
   border-radius: 1rem;
-  img{
-    height: 300px;
+  a,img{
+    max-height: 300px;
     display: block;
     margin-left: auto;
     margin-right: auto;

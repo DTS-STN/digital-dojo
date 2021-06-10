@@ -14,15 +14,16 @@ callout: >
 <div class="grid2">
     <div>
         <p> 
-            Un Dojo est un mot japonais désignant un espace d'apprentissage immersif ou de méditation. La communauté mondiale DevOps a adopté les DevOps Dojo pour favoriser l’apprentissage et la transformation organisationnelle.
+            Un Dojo est un mot japonais pour un espace d'apprentissage immersif ou de méditation. La communauté DevOps mondiale a adopté le concept d'un Dojo pour l'apprentissage et la mise en œuvre de la transformation organisationnelle.
         </p>
 
         <p> 
-            Digital Technology Solutions within IITB at ESDC is taking this concept and applying it to learning the TBS Digital Standards, which are aligned to Agile and DevOps mindsets.
+            Solutions de technologie numérique au sein de l'IITB à EDSC utilise ce concept et l'applique à l'apprentissage des normes numériques du Secrétariat du Conseil du Trésor, qui sont alignées avec les mentalités Agile et DevOps.
         </p>
             
         <p>
-        Notre Dojo digital vise à fournir un espace virtuel immersif où les équipes de produits de l'EDSC peuvent apprendre de nouvelles compétences et de nouvelles façons de résoudre des problèmes courants avec l'aide et les conseils des experts du GC. </p>
+       Notre Dojo numérique vise à fournir un espace virtuel immersif où les équipes de produits d'EDSC peuvent acquérir de nouvelles compétences et de nouvelles façons de résoudre des problèmes courants avec l'aide et les conseils d'experts du GC.
+        </p>
     </div>
 
     <div class="one-pager">
@@ -32,17 +33,17 @@ callout: >
     
 </div>
 
-## Ce qu'est et n'est pas le Dojo numérique
+## Ce que le Dojo numérique est, et ce qu’il n'est pas
 
-Notre objectif est de fournir une expérience d'apprentissage virtuelle agréable, adaptée à votre équipe et à vos objectifs. Pour cette raison, il n'y a pas de définition précise de ce que sera une expérience Dojo, mais nous savons quel type d'expérience nous voulons créer.
+Notre objectif est de fournir une expérience d'apprentissage virtuelle agréable, adaptée à votre équipe et à vos objectifs. Pour cette raison, il n'y a pas de définition précise de ce que sera une expérience Dojo, mais nous savons quel type d'expérience nous voulons créer.:
 
 <div class="grid">
     <div class="item1">
         <img src="../assets/img/thumb_down.png" />
         <ul>
             <li> Formation en classe </li>
-            <li> Un centre d'expertise </li>
-            <li> Leçons abstraites ou théoriques </li>
+            <li> Un pôle d'expertise </li>
+            <li> Théorie abstraite ou de haut niveau </li>
             <li> Exercises avec réponses prédéfinies </li>
         </ul>
     </div>
@@ -51,9 +52,9 @@ Notre objectif est de fournir une expérience d'apprentissage virtuelle agréabl
         <img src="../assets/img/thumb_up.png" />
         <ul>
             <li> Expérience pratique et immersive </li>
-            <li> Des experts travaillent avec votre équipe </li>
-            <li> Nous travaillons avec vous sur votre vrai produit </li>
-            <li> Personnalisé selon vos objectifs </li>
+            <li> Des experts qui travaillent avec votre équipe </li>
+            <li> Apprendre en travaillant sur un vrai produit </li>
+            <li>  Adapté à vos objectifs </li>
         </ul>
     </div>
 </div>
@@ -61,13 +62,13 @@ Notre objectif est de fournir une expérience d'apprentissage virtuelle agréabl
 ## Pourquoi notre Dojo?
 
 ### Expérience en équipe 
-Le dojo se concentre sur la livraison en équipe. Ceci renforce la confiance, la compréhension mutuelle, la cohésion et la collaboration.
+Ensemble, nous formons toute une équipe (métier et informatique). Cela renforce la confiance, la compréhension mutuelle, la cohésion et la collaboration.
 
-### Government du Canada
-Une expérience basée sur les réalités des pratiques du GdC – normes, vocabulaire et défis liés a la livraison des produits.
+### Focus du gouvernement du Canada
+Nous adaptons notre expérience en fonction des pratiques, des normes, de la langue et des défis réalistes du gouvernement du Canada en matière de TI.
 
 ### Apprentissage virtuel
-Le dojo a été conçu avec l'apprentissage virtuel en tête. Nous aidons aussi les équipes à travailler ensemble plus efficacement dans ce nouveau monde.
+Nous concevons le Dojo avec l'apprentissage virtuel en tête. Nous aiderons également les équipes à apprendre à travailler ensemble plus efficacement dans ce nouveau monde virtuel. 
 
 ## Contactez-nous
 

@@ -28,7 +28,7 @@ callout: >
     </div>
 </div>
 
-<p><img src="../assets/img/decorative-dots.png" class="dots" role="presentation" ></p>
+<p><img src="../assets/img/decorative-dots.png" class="dots" role="presentation" alt=""></p>
 
 
 ## What the Digital Dojo is and isn't
@@ -38,7 +38,7 @@ We aim to provide an engaging virtual learning experience catered to your team, 
 <div class="grid">
     
     <div class="item1">
-    <img src="../assets/img/thumb_down.png" alt="Thumbs down icon"/>
+    <img src="../assets/img/thumb_down.png" alt="What a Dojo isn't"/>
         <ul>
             <li> Classroom Training </li>
             <li> A center of Expertise </li>
@@ -48,7 +48,7 @@ We aim to provide an engaging virtual learning experience catered to your team, 
     </div>
 
     <div class="item2" >
-        <img src="../assets/img/thumb_up.png" alt="Thumbs up icon"/>
+        <img src="../assets/img/thumb_up.png" alt="What a Dojo is"/>
         <ul>
             <li> Practical & immersive experience</li>
             <li> Experts working directly with your team </li>
@@ -58,7 +58,7 @@ We aim to provide an engaging virtual learning experience catered to your team, 
     </div>
 </div>
 
-<p><img src="../assets/img/decorative-dots.png" class="dots" role="presentation" ></p>
+<p><img src="../assets/img/decorative-dots.png" class="dots" role="presentation" alt=""></p>
 
 ## Why our Dojo?
 
@@ -71,7 +71,7 @@ We cater our experienced based on realistic Government of Canada IT practices, s
 ### Virtual Learning
 We are designing the Dojo with virtual learning in mind. We will also help teams learn how to work together more effectively in this new world.
 
-<p><img src="../assets/img/decorative-dots.png" class="dots" role="presentation" ></p>
+<p><img src="../assets/img/decorative-dots.png" class="dots" role="presentation" alt=""></p>
 
 ## Get in touch
 
@@ -79,7 +79,7 @@ We are designing the Dojo with virtual learning in mind. We will also help teams
     
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].learn_url | default: site.data.i18n.en.learn_url }}" aria-label="{{ site.data.i18n[page.lang].learn | default: site.data.i18n.en.learn }}\">
-            <img src="../assets/img/Info-icon.png" alt="Learn more information icon"/>
+            <img src="../assets/img/Info-icon.png" alt=""/>
             <h3>Learn more</h3>
         </a>
         <p></p>
@@ -88,7 +88,7 @@ We are designing the Dojo with virtual learning in mind. We will also help teams
     
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].apply_url | default: site.data.i18n.en.apply_url }}" aria-label="{{ site.data.i18n[page.lang].apply | default: site.data.i18n.en.apply }}\">
-            <img src="../assets/img/Form_icon_circle.png" alt="Apply to the Dojo form icon"/>
+            <img src="../assets/img/Form_icon_circle.png" alt=""/>
             <h3>Apply to the Dojo</h3>
         </a>
         
@@ -96,7 +96,7 @@ We are designing the Dojo with virtual learning in mind. We will also help teams
     </div>
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].contact_url | default: site.data.i18n.en.contact_url }}" aria-label="{{ site.data.i18n[page.lang].contact | default: site.data.i18n.en.contact }}\">
-            <img src="../assets/img/Email_icon_circle.png" alt="Contact us email icon"/>
+            <img src="../assets/img/Email_icon_circle.png" alt=""/>
             <h3>Contact us</h3>
         </a>
         

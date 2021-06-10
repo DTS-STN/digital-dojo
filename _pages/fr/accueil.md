@@ -27,11 +27,13 @@ callout: >
     </div>
 
     <div class="one-pager">
-        <a href="../assets/img/Team_charter_FR.png" alt="Digital Dojo one-pager"><img src="../assets/img/Team_charter_FR.png"/></a>
+        <a href="../assets/img/Team_charter_FR.png" alt="Digital Dojo one-pager"><img src="../assets/img/Team_charter_FR.png" alt="notre page d'accueil"/></a>
         Voir notre page d'accueil
     </div>
     
 </div>
+
+<p><img src="../assets/img/decorative-dots.png" class="dots" role="presentation" alt=""></p>
 
 ## Ce que le Dojo numérique est, et ce qu’il n'est pas
 
@@ -39,7 +41,7 @@ Notre objectif est de fournir une expérience d'apprentissage virtuelle agréabl
 
 <div class="grid">
     <div class="item1">
-        <img src="../assets/img/thumb_down.png" />
+        <img src="../assets/img/thumb_down.png" alt="ce qu’il n'est pas"/>
         <ul>
             <li> Formation en classe </li>
             <li> Un pôle d'expertise </li>
@@ -49,7 +51,7 @@ Notre objectif est de fournir une expérience d'apprentissage virtuelle agréabl
     </div>
 
     <div class="item2" >
-        <img src="../assets/img/thumb_up.png" />
+        <img src="../assets/img/thumb_up.png" "Ce que le Dojo numérique"/>
         <ul>
             <li> Expérience pratique et immersive </li>
             <li> Des experts qui travaillent avec votre équipe </li>
@@ -58,6 +60,8 @@ Notre objectif est de fournir une expérience d'apprentissage virtuelle agréabl
         </ul>
     </div>
 </div>
+
+<p><img src="../assets/img/decorative-dots.png" class="dots" role="presentation" alt=""></p>
 
 ## Pourquoi notre Dojo?
 
@@ -70,6 +74,9 @@ Nous adaptons notre expérience en fonction des pratiques, des normes, de la lan
 ### Apprentissage virtuel
 Nous concevons le Dojo avec l'apprentissage virtuel en tête. Nous aiderons également les équipes à apprendre à travailler ensemble plus efficacement dans ce nouveau monde virtuel. 
 
+
+<p><img src="../assets/img/decorative-dots.png" class="dots" role="presentation" alt=""></p>
+
 ## Contactez-nous
 
 
@@ -77,7 +84,7 @@ Nous concevons le Dojo avec l'apprentissage virtuel en tête. Nous aiderons éga
 
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].learn_url | default: site.data.i18n.fr.learn_url }}" aria-label="{{ site.data.i18n[page.lang].learn | default: site.data.i18n.fr.learn }}\">
-            <img src="../assets/img/Info-icon.png" />
+            <img src="../assets/img/Info-icon.png" alt=""/>
             <h4>Learn more</h4>
         </a>
         <p></p>
@@ -86,7 +93,7 @@ Nous concevons le Dojo avec l'apprentissage virtuel en tête. Nous aiderons éga
 
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].apply_url | default: site.data.i18n.fr.apply_url }}" aria-label="{{ site.data.i18n[page.lang].apply | default: site.data.i18n.fr.apply }}\">
-            <img src="../assets/img/Form_icon_circle.png" />
+            <img src="../assets/img/Form_icon_circle.png" alt=""/>
 
             <h4>Inscrivez-vous au dojo</h4>
         </a>
@@ -94,7 +101,7 @@ Nous concevons le Dojo avec l'apprentissage virtuel en tête. Nous aiderons éga
     </div>
     <div class="center">
         <a href="{{ site.data.i18n[page.lang].contact_url | default: site.data.i18n.fr.contact_url }}" aria-label="{{ site.data.i18n[page.lang].contact | default: site.data.i18n.fr.contact }}\">
-            <img src="../assets/img/Email_icon_circle.png" />
+            <img src="../assets/img/Email_icon_circle.png" alt=""/>
             <h4>Contactez-nous</h4>
         </a>
 

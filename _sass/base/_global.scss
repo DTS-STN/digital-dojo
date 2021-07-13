@@ -247,10 +247,14 @@ img[align=right] {
 }
 
 .inline-img-40  {
-  float: left;
-  
   img {
     width: 40%;
+    float: left;
+  }
+  p{
+      text-align: justify;
+      font-size: 25px;
+  }
   }
   
 }

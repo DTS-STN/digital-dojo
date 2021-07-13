@@ -14,30 +14,33 @@ We find that telling people what we do isn't enough. We want to give people a ch
 
 # What happens at the Open House?
 
-
-
 <div class="inline-img-40">
 
-<img src="../assets/img/conference-floor.png"  role="presentation" alt="">
+    <img src="../assets/img/conference-floor.png"  role="presentation" alt="">
 
-<p>
-We have a range of activities you can opt into in break-out rooms using the TeamFlow platform. In each breakout room, you'll have an opportunity to work with one of the Digital Dojo Team Members to put some of the skills we can teach you and your team into practice. 
-</p>
+    <p>
+    We have a range of activities you can opt into in break-out rooms using the TeamFlow platform. In each breakout room, you'll have an opportunity to work with one of the Digital Dojo Team Members to put some of the skills we can teach you and your team into practice. 
+    </p>
 
-<p>
-For example, if you've heard about retrospectives, but never had the chance to actually run or be part of one, you can learn more by actually participating in one with us during the open house.
-</p>
+    <p>
+    For example, if you've heard about retrospectives, but never had the chance to actually run or be part of one, you can learn more by actually participating in one with us during the open house.
+    </p>
 
 <div>
 
-
+<div>
 # Where can I find out more about the Dojo before attending a Virtual Open House?
 
 You can find out more by taking a look <a href="{{ site.data.i18n[page.lang].learn_url | default: site.data.i18n.en.learn_url }}" aria-label="{{ site.data.i18n[page.lang].here | default: site.data.i18n.en.here }}\"> {{ site.data.i18n[page.lang].here | default: site.data.i18n.en.here }} </a>
 
 We look forward to seeing you and your team a the Digital Dojo Open House.
 
+</div>
+
+<div>
+
 # Register for an upcoming Virtual Open House
 
 <script src="https://portal.hipporello.net/default/embed.js?formId=ced3ecb6bb11449fa5cf6358558fe586"></script>
 
+</div>

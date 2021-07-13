@@ -13,11 +13,13 @@ If you or your team has recently heard about us but you're still not quite sure 
 We find that telling people what we do isn't enough. We want to give people a chance to actually see for themselves with a short but immersive experience and leave the open house having learned something new.
 
 # What happens at the Open House?
+<div class="grid2">
+
 <div class="one-pager">
 
-<p><img src="../assets/img/conference-floor.png" class="inline-img-400" role="presentation" alt="">
+<img src="../assets/img/conference-floor.png" class="inline-img-400" role="presentation" alt="">
 
-We have a range of activities you can opt into in break-out rooms using the TeamFlow platform. In each breakout room, you'll have an opportunity to work with one of the Digital Dojo Team Members to put some of the skills we can teach you and your team into practice. </p>
+We have a range of activities you can opt into in break-out rooms using the TeamFlow platform. In each breakout room, you'll have an opportunity to work with one of the Digital Dojo Team Members to put some of the skills we can teach you and your team into practice. </div>
 
 For example, if you've heard about retrospectives, but never had the chance to actually run or be part of one, you can learn more by actually participating in one with us during the open house.
 

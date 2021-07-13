@@ -246,7 +246,8 @@ img[align=right] {
   margin-right: auto; 
 }
 
-.inline-img-400 {
-  display: block;
+.inline-img-400 img {
+  display: inline-block;
+  vertical-align: middle;
   height:400px;
 }

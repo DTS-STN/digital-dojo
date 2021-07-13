@@ -7,7 +7,7 @@ permalink: /contactus/
 
 ---
 
-### Question? No problem! We're here to answer any questions about the dojo
+### Question? No problem! We're here to answer any questions about the Dojo.
 
 We highly value accessibility, and we're working with Hipporello to address the accessibility issues with their service. 
 

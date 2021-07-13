@@ -7,7 +7,7 @@ permalink: /learn/
 
 ---
 
-#h2 Vous ne savez pas si le dojo convient à votre équipe ? Rencontrez des membres de notre équipe, découvrez l'expérience du dojo et voyez si c'est l'endroit pour vous.
+### Vous ne savez pas si le dojo convient à votre équipe ? Rencontrez des membres de notre équipe, découvrez l'expérience du dojo et voyez si c'est l'endroit pour vous.
 
 
 

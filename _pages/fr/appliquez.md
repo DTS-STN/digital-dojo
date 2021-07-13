@@ -7,7 +7,7 @@ permalink: /appliquez/
 
 ---
 
-#h2 Vous avez appris ce que nous faisons et vous pensez que nous pourrions aider votre équipe? Remplissez ce formulaire et nous vous contacterons sous peu !
+### Vous avez appris ce que nous faisons et vous pensez que nous pourrions aider votre équipe? Remplissez ce formulaire et nous vous contacterons sous peu !
 
 
 L'accessibilité nous est très importante et nous travaillons avec Hipporello pour résoudre les problèmes d'accessibilité de leur service. 

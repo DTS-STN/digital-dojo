@@ -246,8 +246,11 @@ img[align=right] {
   margin-right: auto; 
 }
 
-.inline-img-400 img {
+.inline-img-60 img {
   display: inline-block;
-  vertical-align: middle;
-  height:400px;
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
 }

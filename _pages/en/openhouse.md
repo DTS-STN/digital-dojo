@@ -14,13 +14,12 @@ We find that telling people what we do isn't enough. We want to give people a ch
 
 # What happens at the Open House?
 
-<div>
 
-<div class="inline-img-60">
+<div class="inline-img-40">
 
-<img src="../assets/img/conference-floor.png" class="inline-img-400" role="presentation" alt="">
+<img src="../assets/img/conference-floor.png"  role="presentation" alt="">
 
-We have a range of activities you can opt into in break-out rooms using the TeamFlow platform. In each breakout room, you'll have an opportunity to work with one of the Digital Dojo Team Members to put some of the skills we can teach you and your team into practice. </div>
+We have a range of activities you can opt into in break-out rooms using the TeamFlow platform. In each breakout room, you'll have an opportunity to work with one of the Digital Dojo Team Members to put some of the skills we can teach you and your team into practice. 
 
 For example, if you've heard about retrospectives, but never had the chance to actually run or be part of one, you can learn more by actually participating in one with us during the open house.
 

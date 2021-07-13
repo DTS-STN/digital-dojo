@@ -21,3 +21,7 @@ Nous proposons une série d'activités auxquelles vous pouvez participer dans de
 Vous pouvez en savoir plus en consultant notre site web <a href="{{ site.data.i18n[page.lang].learn_url | default: site.data.i18n.en.learn_url }}" aria-label="{{ site.data.i18n[page.lang].here | default: site.data.i18n.en.here }}\">{{ site.data.i18n[page.lang].here | default: site.data.i18n.fr.here }} </a>
 
 Nous avons hâte de recontrer votre équipe à la journée portes ouvertes du Dojo numérique!
+
+# Register for an upcoming Ipen House
+
+<script src="https://portal.hipporello.net/default/embed.js?formId=ced3ecb6bb11449fa5cf6358558fe586"></script>

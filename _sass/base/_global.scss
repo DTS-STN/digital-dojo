@@ -246,11 +246,12 @@ img[align=right] {
   margin-right: auto; 
 }
 
-.inline-img-60 img {
-  display: inline-block;
-  width: 60%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.inline-img-60  {
+  float: right;
+  margin: 10px;
+  
+  img {
+    width: 60%;
+  }
   
 }

@@ -13,9 +13,10 @@ If you or your team has recently heard about us but you're still not quite sure 
 We find that telling people what we do isn't enough. We want to give people a chance to actually see for themselves with a short but immersive experience and leave the open house having learned something new.
 
 # What happens at the Open House?
-<div class="grid2">
 
-<div class="one-pager">
+<div>
+
+<div class="inline-img-60">
 
 <img src="../assets/img/conference-floor.png" class="inline-img-400" role="presentation" alt="">
 

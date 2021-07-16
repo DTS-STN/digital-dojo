@@ -28,17 +28,7 @@ We find that telling people what we do isn't enough. We want to give people a ch
 
 <div>
 
-<div>
 
-# Where can I find out more about the Dojo before attending a Virtual Open House?
-
-You can find out more by taking a look <a href="{{ site.data.i18n[page.lang].learn_url | default: site.data.i18n.en.learn_url }}" aria-label="{{ site.data.i18n[page.lang].here | default: site.data.i18n.en.here }}\"> {{ site.data.i18n[page.lang].here | default: site.data.i18n.en.here }} </a>
-
-We look forward to seeing you and your team a the Digital Dojo Open House.
-
-</div>
-
-<div>
 
 # Register for an upcoming Virtual Open House
 

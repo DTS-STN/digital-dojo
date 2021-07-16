@@ -28,7 +28,7 @@ We find that telling people what we do isn't enough. We want to give people a ch
 
 <div>
 
-
+<div>
 
 # Where can I find out more about the Dojo before attending a Virtual Open House?
 
@@ -36,12 +36,12 @@ You can find out more by taking a look <a href="{{ site.data.i18n[page.lang].lea
 
 We look forward to seeing you and your team a the Digital Dojo Open House.
 
+</div>
 
-
-
+<div>
 
 # Register for an upcoming Virtual Open House
 
 <script src="https://portal.hipporello.net/default/embed.js?formId=ced3ecb6bb11449fa5cf6358558fe586"></script>
 
-
+</div>

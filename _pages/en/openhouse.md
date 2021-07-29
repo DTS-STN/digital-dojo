@@ -8,11 +8,7 @@ permalink: /openhouse/
 
 If you or your team has recently heard about us but you're still not quite sure what we do, then please join us for a Digital Dojo Open House.
 
-# Register for an upcoming Virtual Open House
 
-<script src="https://portal.hipporello.net/default/embed.js?formId=ced3ecb6bb11449fa5cf6358558fe586"></script>
-
-</div>
 
 
 
@@ -34,7 +30,9 @@ We find that telling people what we do isn't enough. We want to give people a ch
     For example, if you've heard about retrospectives, but never had the chance to actually run or be part of one, you can learn more by actually participating in one with us during the open house.
     </p>
 
-<div>
+</div>
 
+# Register for an upcoming Virtual Open House
 
+<script src="https://portal.hipporello.net/default/embed.js?formId=ced3ecb6bb11449fa5cf6358558fe586"></script>
 

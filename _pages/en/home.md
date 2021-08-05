@@ -9,6 +9,8 @@ callout: >
     <p class="margin-bottom-sm">“Next to trying and winning, the best thing is trying and failing.” — L.M. Montgomery</p>
 ---
 
+<iframe width="560" height="315" src="https://youtu.be/embed/6xF2lBYjBVo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## What's a Dojo?
 
 <div class="grid2">

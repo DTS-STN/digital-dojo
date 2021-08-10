@@ -1,9 +1,9 @@
 ---
 layout: home
 lang: en
-ref: home
+ref: faq
 title:  
-permalink: /home/
+permalink: /faq/
 callout: >
     <h1 class="inv">Digital Dojo</h1>
 ---

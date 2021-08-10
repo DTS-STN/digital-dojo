@@ -15,6 +15,7 @@ callout: >
   <summary><h2>Who can attend the Dojo?</h2></summary>
   
   The service is currently only available to teams that work in Employment and Social Development Canada (ESDC), a department of the Government of Canada.
+    
 </details>
 
 <details>
@@ -22,6 +23,7 @@ callout: >
   
   No. Our coaches , facilitators and Dojo staff salaries are all covered under our service's budget, as it helps the department meet its modernization goals.
   The only investment you need to consider is your team's time spent in the Dojo.
+    
 </details>
 
 

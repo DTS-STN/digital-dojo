@@ -8,18 +8,18 @@ callout: >
     <h1 class="inv">Digital Dojo</h1>
 ---
 
-# Digital Dojo Frequently Asked Questions (FAQ)
+## Digital Dojo Frequently Asked Questions (FAQ)
 
 
 <details>
-  <summary>Who can attend the Dojo?</summary>
+    <summary><h3>Who can attend the Dojo?</h3></summary>
   
   <p>The service is currently only available to teams that work in Employment and Social Development Canada (ESDC), a department of the Government of Canada.</p>
     
 </details>
 
 <details>
-  <summary>Does this service cost anything?</summary>
+    <summary><h3>Does this service cost anything?</h3></summary>
   
   <p>No. Our coaches , facilitators and Dojo staff salaries are all covered under our service's budget, as it helps the department meet its modernization goals.
       The only investment you need to consider is your team's time spent in the Dojo.</p>

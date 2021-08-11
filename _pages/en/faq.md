@@ -11,16 +11,9 @@ callout: >
 ## Digital Dojo Frequently Asked Questions (FAQ)
 
 <section class="cd-faq js-cd-faq container max-width-md margin-top-lg margin-bottom-lg">
-  <ul class="cd-faq__categories">
-    <li><a class="cd-faq__category cd-faq__category-selected truncate" href="#basics">Basics</a></li>
-    <li><a class="cd-faq__category truncate" href="#mobile">Mobile</a></li>
-    <li><!-- ... --></li>
-    <!-- ... -->
-  </ul> <!-- cd-faq__categories -->
 
   <div class="cd-faq__items">
-    <ul id="basics" class="cd-faq__group">
-      <li class="cd-faq__title"><h2>Basics</h2></li>
+    <ul class="cd-faq__group">
       <li class="cd-faq__item">
         <a class="cd-faq__trigger" href="#0"><span>How do I change my password?</span></a>
         <div class="cd-faq__content">
@@ -41,10 +34,6 @@ callout: >
 
       <li class="cd-faq__item"><!-- ... --></li>
 
-      <!-- ... -->
-    </ul> <!-- cd-faq__group -->
-
-    <ul id="mobile" class="cd-faq__group">
       <!-- ... -->
     </ul> <!-- cd-faq__group -->
 

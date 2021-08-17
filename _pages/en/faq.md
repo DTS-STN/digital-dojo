@@ -83,6 +83,3 @@ callout: >
     </div>
 
 </div>
-
-<script src="assets/js/util.js"></script> 
-<script src="assets/js/dropdown.js"></script>

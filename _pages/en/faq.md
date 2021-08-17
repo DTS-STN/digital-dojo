@@ -78,8 +78,9 @@ callout: >
             <img src="../assets/img/Email_icon_circle.png" alt=""/>
             <h3>Contact us</h3>
         </a>
-        
-
     </div>
-
 </div>
+
+<script src="assets/js/util.js"></script> 
+<script src="assets/js/dropdown.js"></script>
+<link rel="stylesheet" href="_sass/base/_global.scss"></link>

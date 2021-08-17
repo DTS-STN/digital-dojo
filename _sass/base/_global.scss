@@ -267,32 +267,3 @@ img[align=right] {
 .center {
   align-items: center;
 }
-
-.cd-faq__items { // on mibile, faq contents slides in from the right
-  position: fixed;
-  height: 100%;
-  width: 90%;
-  top: 0;
-  right: 0;
-  transform: translateZ(0) translateX(100%);
-  transition: transform .3s;
-}
-
-.cd-faq__items--slide-in {
-  transform: translateX(0);
-}
-
-@include breakpoint(md) {
-  .cd-faq {
-    display: flex;
-  }
-
-  .cd-faq__categories {
-    position: sticky; // fix element on scrolling
-    top: 20px;
-    width: 200px;
-  }
-
-  .cd-faq__items {
-    flex-grow: 1;
-  }

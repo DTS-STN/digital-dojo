@@ -3,7 +3,8 @@
 
 # Local development
 1. Install [Ruby v2.6.8](https://www.ruby-lang.org/en/downloads/) 
-1. Install bundler, dependencies and start the project:
+2. Install bundler, dependencies and start the project:
+
 ```bash
 # Install bundler
 gem install bundler
@@ -30,6 +31,8 @@ Execute the following two commands, and try the livereload again.
 gem uninstall eventmachine
 gem install eventmachine --platform ruby
 ```
+3. Navigate to http://127.0.0.1:4000/digital-dojo/
+
 
 # Add a new page
 1. Create an English and French version of the page in the respective [`./_pages/en`](https://github.com/DTS-STN/digital-dojo/tree/main/_pages/en/) and [`./_pages/fr`](https://github.com/DTS-STN/digital-dojo/tree/main/_pages/fr) directory.

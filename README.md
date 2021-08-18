@@ -2,7 +2,7 @@
 [Website for our team](https://dts-stn.github.io/digital-dojo/home/), working in Digital Technology Solutions within IITB at ESDC.
 
 # Local development
-1. Install [Ruby](https://www.ruby-lang.org/en/downloads/) 
+1. Install [Ruby v2.6.8](https://www.ruby-lang.org/en/downloads/) 
 1. Install bundler, dependencies and start the project:
 ```bash
 # Install bundler
@@ -14,6 +14,21 @@ bundle install
 
 # Start the project (http://localhost:4000)
 jekyll serve --livereload
+```
+
+Troubleshooting:
+- If you get the following error:
+
+```bash
+Unable to load the EventMachine C extension; To use the pure-ruby reactor, require 'em/pure_ruby'
+C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/eventmachine-1.2.7-x64-mingw32/lib/rubyeventmachine.rb:2:in `require': cannot load such file -- 2.6/rubyeventmachine (LoadError)
+```
+
+Execute the following two commands, and try the livereload again.
+
+```bash
+gem uninstall eventmachine
+gem install eventmachine --platform ruby
 ```
 
 # Add a new page

@@ -50,7 +50,7 @@ The only investment you need to consider is your team's time spent in the Dojo.<
   <div class="faq__content">
     <p>Unsure if the Dojo is the place for you and your team? Visit our <a href="{{ site.data.i18n[page.lang].learn_url | default: site.data.i18n.en.learn_url }}" aria-label="{{ site.data.i18n[page.lang].learn | default: site.data.i18n.en.learn }}\">Learn more</a> page where you can view our Digital Dojo deck that outlines all you need to know before entering the Dojo. Or take a moment to watch our Digital Dojo Experience video which explains a team’s journey through all the stages of the Dojo.</p>
 
-    <p>Want to get in touch and learn more on a personal level? Meet the team! Schedule a team meet with our Dojo crew by filling out the <a href="{{ site.data.i18n[page.lang].contactus_url | default: site.data.i18n.en.contactus_url }}" aria-label="{{ site.data.i18n[page.lang].contactus | default: site.data.i18n.en.contactus }}\">form</a> on our website. We look forward to meeting you!</p>
+    <p>Want to get in touch and learn more on a personal level? Meet the team! Schedule a team meet with our Dojo crew by filling out the <a href="{{ site.data.i18n[page.lang].contact_url | default: site.data.i18n.en.contact_url }}" aria-label="{{ site.data.i18n[page.lang].contactus | default: site.data.i18n.en.contactus }}\">form</a> on our website. We look forward to meeting you!</p>
   </div>
 </details>
 <details>

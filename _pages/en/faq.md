@@ -10,7 +10,7 @@ callout: >
 
 ## Digital Dojo Frequently Asked Questions (FAQ)
 
-<details open>
+<details>
   <summary>Who can attend the Dojo?</summary>
   <div class="faq__content">
     <p>The service is currently only available to teams that work in Employment and Social Development Canada (ESDC), a department of the Government of Canada. </p>

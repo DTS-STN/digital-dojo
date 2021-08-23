@@ -142,11 +142,13 @@ details > summary::after {
   position: absolute;
   content: "+";
   right: 20px;
+  padding: 1rem;
 }
 details[open] > summary::after {
   position: absolute;
   content: "-";
   right: 20px;
+  padding: 1rem;
 }
 details > summary::-webkit-details-marker {
   display: none;

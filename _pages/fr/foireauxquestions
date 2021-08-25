@@ -11,75 +11,76 @@ callout: >
 ## Foire aux questions (FAQ) du Dojo Numérique
 
 <details>
-  <summary>Who can attend the Dojo?</summary>
+  <summary>Qui peut fréquenter le Dojo ?</summary>
   <div class="faq__content">
-    <p>The service is currently only available to teams that work in Employment and Social Development Canada (ESDC), a department of the Government of Canada. </p>
+    <p>Le service est actuellement disponible qu'aux équipes qui travaillent à Emploi et Développement social Canada (EDSC), un ministère du gouvernement du Canada.</p>
   </div>
 </details>
 <details>
-  <summary>Does this service cost anything?</summary>
+  <summary>Est-ce qu'il y a un coût ?</summary>
   <div class="faq__content">
-    <p>No. Our coaches , facilitators and Dojo staff salaries are all covered under our service's budget, as it helps the department meet its modernization goals.
-The only investment you need to consider is your team's time spent in the Dojo.</p>
+    <p>Non. Les salaires de nos entraîneurs, facilitateurs et du personnel du Dojo sont tous couverts par le budget de notre service, puisque ce dernier aide le département à atteindre ses objectifs de modernisation.
+Le seul investissement que vous devez considérer est le temps que votre équipe passe dans le Dojo.</p>
   </div>
 </details>
 <details>
-  <summary id="pause">I can't pause my ongoing work. Should I still be considering the Dojo?</summary>
+  <summary id="pause">Je ne peux pas mettre en pause mon travail en cours. Le Dojo est-il fait pour moi ?</summary>
   <div class="faq__content">
-    <p>You will not need to completely pause your ongoing deliverables while in the Dojo. It's true that time will be spent on learning and readjusting how you work as a team, but you will come into the Dojo with work to complete as you practice new ways of working.</p>
+    <p>Vous n'aurez pas besoin de suspendre complètement vos livrables en cours pendant que vous êtes dans le Dojo.
+Il est vrai que du temps sera consacré à l'apprentissage et au réajustement de votre façon de travailler en équipe, mais vous arriverez au Dojo avec du travail à terminer au fur et à mesure que vous pratiquerez de nouvelles façons de travailler.</p>
 
-    <p>Teams that feel they are too busy to include continuous improvement in their cycles are actually a good fit for the Dojo! It tells us that we could help with prioritizing, organizing work, reducing dependencies and achieving a sustainable work pace through focus.</p>
+    <p>Les équipes qui se sentent trop occupées pour inclure l'amélioration continue dans leurs cycles sont en fait un bon choix pour le Dojo ! Cela nous dit que nous pourrions aider à hiérarchiser, organiser le travail, réduire les dépendances et atteindre un rythme de travail durable grâce à la concentration.</p>
 
-    <p>We have found that teams that invest some time to improve how they work are able to be more efficient moving forward. A good investment!</p>
+    <p>Nous avons constaté que les équipes qui investissent du temps pour améliorer leur façon de travailler sont capables d'être plus efficaces à l'avenir. Un bon investissement!</p>
   </div>
 </details>
 <details>
-  <summary>What experts do you have in your team?</summary>
+  <summary>Quels experts avez-vous dans votre équipe ?</summary>
   <div class="faq__content">
-    <p>Our team of coaches and Dojo staff are full time employees of the public service. Most of us have 10+ years in development and applying agile best practices in a government context.</p>
+    <p>Notre équipe d'entraîneurs et le personnel du Dojo sont des employés à temps plein de la fonction publique. La plupart d'entre nous avons plus de 10 ans d'expérience dans le domaine de développement d'application et à travailler de facon agile dans un contexte gouvernemental.</p>
       
-    <p>We are also very lucky to have a full time UI/UX resource on the team, a technical advisor very familiar with the IT processes in the department, and apprentices that bring new ideas to the table.</p>
+    <p>Nous sommes également très chanceux d'avoir une ressource UI/UX à temps plein dans l'équipe, un conseiller technique très familier avec les processus informatiques du département et des apprentis qui contribuent des nouvelles idées et connaissances.</p>
       
-    <p>We recognize that we are not experts in all subject matters and technologies, which is why our staffing strategy includes partnerships, micro-missions and seeking out experts in other branches/departments/government levels.</p>
+    <p>Nous reconnaissons que nous ne sommes pas des experts dans tous les domaines et technologies, c'est pourquoi notre stratégie de recruitement comprend des partenariats, des micro-missions et la recherche d'experts dans d'autres directions/départements/niveaux de gouvernement.</p>
 
-    <p>We will be honest with you about what we feel comfortable coaching ourselves, and when we feel we need to bring in outside help.</p>
+    <p>Nous serons honnêtes avec vous à propos de ce que nous nous sentons à l'aise d'entraîner nous-mêmes et quand nous pensons avoir besoin de faire appel à une aide extérieure.</p>
   </div>
 </details>
 <details>
-  <summary>How do we know if we're the right fit?</summary>
+  <summary>Comment savoir si nous sommes faits pour vous ?</summary>
   <div class="faq__content">
-    <p>Unsure if the Dojo is the place for you and your team? Visit our <a href="{{ site.data.i18n[page.lang].learn_url | default: site.data.i18n.en.learn_url }}" aria-label="{{ site.data.i18n[page.lang].learn | default: site.data.i18n.en.learn }}\">Learn more</a> page where you can view our Digital Dojo deck that outlines all you need to know before entering the Dojo. Or take a moment to watch our Digital Dojo Experience video which explains a team’s journey through all the stages of the Dojo.</p>
+    <p>Vous ne savez pas si le Dojo est l'endroit idéal pour vous et votre équipe ? Visitez notre page <a href="{{ site.data.i18n[page.lang].learn_url | default: site.data.i18n.en.learn_url }}" aria-label="{{ site.data.i18n[page.lang].learn | default: site.data.i18n.en.learn }}\">En savoir plus</a> où vous pourrez voir notre présentation du Dojo Digital qui décrit tout ce que vous devez savoir avant d'entrer dans le Dojo. Ou prenez un moment pour regarder notre vidéo Digital Dojo Experience qui explique le parcours d'une équipe à travers toutes les étapes du Dojo.</p>
 
-    <p>Want to get in touch and learn more on a personal level? Meet the team! Schedule a team meet with our Dojo crew by filling out the <a href="{{ site.data.i18n[page.lang].contact_url | default: site.data.i18n.en.contact_url }}" aria-label="{{ site.data.i18n[page.lang].contact | default: site.data.i18n.en.contact }}\">form</a> on our website. We look forward to meeting you!</p>
+    <p>Vous souhaitez entrer en contact et en savoir plus sur un plan personnel ? Rencontrez l'équipe ! Organisez une rencontre avec l'équipe du Dojo en remplissant le <a href="{{ site.data.i18n[page.lang].contact_url | default: site.data.i18n.en.contact_url }}" aria-label="{{ site.data.i18n[page.lang].contact | default: site.data.i18n.en.contact }}\">formulaire</a> on our website. sur notre site Web. Nous sommes impatients de vous rencontrer !</p>
   </div>
 </details>
 <details>
-  <summary>How much time do we spend in the Dojo?</summary>
+  <summary>Combien de temps passons-nous dans le Dojo ?</summary>
   <div class="faq__content">
-    <p>The Dojo Experience is catered to each individual team and their goals and therefore time may vary. An average stay would be 4-6 weeks, but could be shorter if the scope of practice is reduced. </p>
+    <p>L'expérience du Dojo est adaptée à chaque équipe et à ses objectifs, c'est pourquoi la durée peut varier. Un séjour moyen est de 4 à 6 semaines, mais il peut être plus court si le champ d'action est réduit.</p>
   </div>
 </details>
 <details>
-  <summary>Is there a part-time option?</summary>
+  <summary>Existe-t-il une option à temps partiel ?</summary>
   <div class="faq__content">
-    <p>Currently, there is no part-time option. See <a href="#pause">I can't pause my ongoing work. Should I still be considering the Dojo?</a> for more information.</p>
+    <p>Actuellement, il n'y a pas d'option à temps partiel.Voir <a href="#pause">Je ne peux pas interrompre mon travail en cours. Devrais-je quand même envisager le Dojo ?</a> pour plus d'informations.</p>
   </div>
 </details>
 <details>
-  <summary>Do we need to be trained in Agile to use this service?</summary>
+  <summary>Faut-il être formé à la méthode Agile pour utiliser ce service ?</summary>
   <div class="faq__content">
-    <p>Because the Dojo is a place to practice rather than a classroom for traditional training, the ideal team will come into the Dojo with basic agile knowledge. We recommend that the different agile roles be understood and that a team discussion about who will play which role happen before you enter the Dojo.</p>
+    <p>Parce que le Dojo est un lieu de pratique plutôt qu'une salle de classe pour une formation traditionnelle, l'équipe idéale arrivera au Dojo avec des connaissances agiles de base. Nous recommandons que les différents rôles agiles soient compris et qu'une discussion d'équipe sur qui jouera quel rôle ait lieu avant que vous n'entriez dans le Dojo.</p>
 
-    <p>This will help us jump right into role-specific coaching and practice. </p>
+    <p>Cela nous aidera à aborder directement le coaching et la pratique spécifiques aux rôles.</p>
   </div>
 </details>
 <details>
-  <summary>Can we return to the Dojo more than once?</summary>
+  <summary>Peut-on revenir au dojo plus d'une fois ?</summary>
   <div class="faq__content">
-      <p>Absolutely. As a matter of fact, we hope you do!</p>
+      <p>Absolument. En fait, nous espérons que vous le ferez !</p>
 
-    <p>Just like a martial arts Dojo, teams can be white belts or black belts in various DevOps/Agile areas. A team could be mature in their agile adoption but recognize they have some work to do in relation to automating tests, or continuous delivery.</p>
+    <p>Tout comme un Dojo d'arts martiaux, les équipes peuvent être ceintures blanches ou noires dans divers domaines DevOps/Agile. Une équipe peut être mature dans son adoption d'Agile mais reconnaître qu'elle a encore du travail à faire en ce qui concerne l'automatisation des tests ou la livraison continue.</p>
 
-    <p>If your experience in the Dojo was valuable and you think there is an opportunity to go through it again with a different focus, we will work with you to make it happen.</p>
+    <p>Si votre expérience dans le Dojo a été précieuse et que vous pensez qu'il est possible de la renouveler avec un objectif différent, nous travaillerons avec vous pour que cela se produise.</p>
   </div>
 </details>

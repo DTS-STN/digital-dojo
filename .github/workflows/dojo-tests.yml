@@ -22,7 +22,7 @@ jobs:
         uses: cypress-io/github-action@v2
         with:
           start: jekyll serve --livereload
-          wait-on: http://localhost:4000
+          wait-on: http://127.0.0.1:4000/digital-dojo/
 #         record: # optional
 #         # Set configuration values. Separate multiple values with a comma. The values set here override any values set in your configuration file.
 #         config: # optional

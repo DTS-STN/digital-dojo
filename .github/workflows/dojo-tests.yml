@@ -1,31 +1,69 @@
-# This workflow will do a clean install of node dependencies, cache/restore them, build the source code and run tests across different versions of node
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
 
-name: Node.js CI
+name: Build and Test (E2E)
 
 on:
-  push:
-    branches: [ main ]
   pull_request:
     branches: [ main ]
 
 jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [12.x, 14.x, 16.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
+  build_and_e2e_test:
+    #Cypress Tests
+    runs-on: ubuntu-16.04
     steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v2
-      with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'npm'
+    - name: Checkout
+      uses: actions/checkout@v2
     - run: npm ci
-    - run: npm run build --if-present
-    - run: npm test
+    - name: Cypress E2E Tests
+      uses: cypress-io/github-action@v2
+      with:
+        start: jekyll serve --livereload
+        wait-on: http://localhost:4000
+#         record: # optional
+#         # Set configuration values. Separate multiple values with a comma. The values set here override any values set in your configuration file.
+#         config: # optional
+#         # Path to a JSON file where configuration values are set.
+#         config-file: # optional, default is cypress.json
+#         # Sets Cypress environment variables
+#         env: # optional
+#         # Name of the browser to use
+#         browser: # optional
+#         # Command that overrides cypress run
+#         command: # optional
+#         # Command for starting local server in the background
+#         start: # optional
+#         # A different start command on Windows
+#         start-windows: # optional
+#         # Command to run in build step before starting tests
+#         build: # optional
+#         # Whether or not to run install
+#         install: # optional
+#         # Custom install command to use
+#         install-command: # optional
+#         # Whether or not to run tests
+#         runTests: # optional
+#         # Local server URL to wait for
+#         wait-on: # optional
+#         # Amount of time to wait for wait-on url to be available
+#         wait-on-timeout: # optional
+#         # Whether or not to load balance tests using multiple containers
+#         parallel: # optional
+#         # Group setting for tests
+#         group: # optional
+#         # Tag setting for tests
+#         tag: # optional
+#         # Working directory containing Cypress folder
+#         working-directory: # optional
+#         # Whether or not to use headless mode
+#         headless: # optional
+#         # Provide a specific specs to run
+#         spec: # optional
+#         # Path of project to run
+#         project: # optional
+#         # You can prefix the default test command using the command-prefix option.
+#         command-prefix: # optional
+#         # ID associates multiple CI machines to one test run
+#         ci-build-id: # optional
+#         # Custom cache key
+#         cache-key: # optional
+#         # Whether or not to silence any Cypress specific output from stdout
+#         quiet: # optional

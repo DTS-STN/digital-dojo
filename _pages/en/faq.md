@@ -9,6 +9,8 @@ callout: >
 ---
 
 ## Digital Dojo Frequently Asked Questions (FAQ)
+<p>We have taken the most asked questions and answered them for you!</p>
+<hr class="line_break">
 
 <details>
   <summary>Who can attend the Dojo?</summary>

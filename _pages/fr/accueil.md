@@ -9,6 +9,12 @@ callout: >
     <p class="margin-bottom-sm">“Outre d'essayer et de réussir, la meilleure chose est d'essayer et d'échouer." - L.M. Montgomery</p>
 ---
 
+<div class="center">
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vOywFQBm11A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 ## Qu'est-ce qu'un Dojo?
 
 <div class="grid2">

@@ -2,17 +2,10 @@
 layout: default
 ---
 
-<div class="home">
-  {% if page.callout %}
-  <div class="call-out"
-  style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
-    {{ page.callout }}
-    <p><img src="../assets/img/decorative-dots.png" class="dots" role="presentation" ></p>
-  </div>
-  {% endif %}
   <article>
     <section class="post-content">{{ content }}</section>
   </article>
+
 
   <div class="posts">
     {% for post in site.posts %}

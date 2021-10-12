@@ -4,8 +4,6 @@ lang: en
 ref: faq
 title: Digital Dojo FAQ
 permalink: /faq/
-callout: >
-    <h1 class="inv">Digital Dojo</h1>
 ---
 
 ## Digital Dojo Frequently Asked Questions (FAQ)

@@ -29,12 +29,43 @@
 			</section>
 		{% endif %}
 	</div>
+	
+	<section id="container">
+		<div id="left"> {% include sidebar.html %} </div>
+		<div id="right"></div>
+			
+		<div id="center">
+			<h1 class="site-title">
+				
+				<a href="{{ site.baseurl }}/{{ site.data.i18n[page.lang].home_url }}">
+					<img src="{{ site.baseurl }}/assets/img/Header-noborder.png" alt="Digital Dojo Logo / Logo du Dojo numérique" >			
+				</a>
+			</h1>
+		</div>
+	</section>
+	
+	
 
-	<div class="branding">
-		<h1 class="site-title">
-			<a href="{{ site.baseurl }}/{{ site.data.i18n[page.lang].home_url }}">
-				<img src="{{ site.baseurl }}/assets/img/Header-noborder.png" alt="Digital Dojo Logo / Logo du Dojo numérique" >			
-			</a>
-		</h1>
-	</div>	
+		<!--    <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="{{ site.baseurl }}\home">Home</a>
+        </li>
+      
+        {%- for category in page.categories -%}
+        {%-   assign crumb = site.data.breadcrumbs[category] -%}
+        {%-   if crumb -%}
+        <li class="breadcrumb-item">
+          <a href="{{ crumb.url | prepend: site.baseurl }}">
+            {{ crumb.title }}
+          </a>
+        </li>
+        {%-   endif -%}
+        {%- endfor -%}
+      
+        <li class="breadcrumb-item active">
+          <a href="{{ page.url | prepend: site.baseurl }}">
+            {{ page.title }}
+          </a>
+        </li>
+      </ol> -->
 </header>

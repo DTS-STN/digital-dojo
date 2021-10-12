@@ -29,11 +29,8 @@
 
   .branding {
     @include header-bar;  
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    
-    width: 70%;
+    display: flex;
+    border-bottom: 1px solid $border-color;
     a {
       color: $header-link-color;
     }    

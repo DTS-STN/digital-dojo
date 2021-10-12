@@ -4,6 +4,7 @@ lang: en
 ref: openhouse
 title:  
 permalink: /openhouse/
+categories: openhouse
 ---
 
 If you or your team has recently heard about us but you're still not quite sure what we do, then please join us for a Digital Dojo Open House.

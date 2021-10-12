@@ -11,14 +11,22 @@ en:
   canada_ca: Government of Canada
   canada_ca_url: https://www.canada.ca/en/
   apply_url: ../apply
-  apply: Apply for the Dojo
+  apply: Join with your team
   contact_url: ../contactus
   contact: Contact us
   partners_url: ../partners
   partners: Our Partners
   learn_url: ../learn
+  learn: Learn More
   partners: Want to Learn More?
   here: here
+  faq_url: ../faq
+  faq: Dojo FAQ
+  events_url: ../events
+  events: Dojo Events
+  openhouse_url: ../openhouse
+  openhouse: Open House
+  dojodeck_url: ../assets/material/dojo-deck-en.ppt
 
 fr:
   continue_reading: Continuer à lire
@@ -33,9 +41,17 @@ fr:
   canada_ca: Government of Canada
   canada_ca_url: https://www.canada.ca/fr/
   apply_url: ../appliquez
-  apply: Apply to the Dojo
+  apply: Join with your team
   contact_url: ../contacteznous
   contact: Contactez nous
   partners_url: ../partenaires
   partners: Our Partners
   here: ici
+  faq_url: ../faq
+  faq: Dojo FAQ
+  events_url: ../events
+  events: Dojo Events
+  learn_url: ../learn
+  learn: Learn More
+  openhouse_url: ../openhouse
+  openhouse: Open House

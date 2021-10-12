@@ -18,3 +18,4 @@ exclude:
   - package*.json
   - README.md
   - vendor
+  - Dockerfile

@@ -2,18 +2,21 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
-
-livenessDelay: 60
-readinessDelay: 60
-livenessPath: /
-readinessPath: /
-
-replicaCount: 1
-
 image:
   repository: nginx
   tag: stable
   pullPolicy: IfNotPresent
+
+deployment:
+  annotations: {}
+
+healthChecks:
+  livenessDelay: 60
+  readinessDelay: 60
+  livenessPath: /
+  readinessPath: /
+
+replicaCount: 1
 
 nameOverride: ""
 fullnameOverride: ""
@@ -46,6 +49,14 @@ resources: {}
   # requests:
   #  cpu: 100m
   #  memory: 128Mi
+
+persistence:
+  enabled: false
+  accessMode: ReadWriteOnce
+  volumeMount:
+      path: /mnt/example
+  storageClass: dtsstorageclass
+  size: 2Gi  
 
 nodeSelector: {}
 

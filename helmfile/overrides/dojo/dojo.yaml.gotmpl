@@ -1,0 +1,36 @@
+image:
+  repository: mtscontainers.azurecr.io/{{ requiredEnv "PROJECT" }}
+  tag: "{{ env "DOCKER_TAG" | default "latest" }}" 
+  pullPolicy: Always
+service:
+  annotations:
+    prometheus.io/scrape: "true"
+    prometheus.io/path: /api/metrics
+    prometheus.io/port: "3000"
+ingress:
+    enabled: true
+    path: /
+    annotations: {}
+    hosts:
+    {{- if or (eq .Environment.Name "prod-blue") (eq .Environment.Name "prod-green") }}
+          - {{ requiredEnv "PROJECT" }}.{{ requiredEnv "BASE_DOMAIN" }}
+    {{ else }}
+          - {{ requiredEnv "PROJECT" }}-{{ .Environment.Name }}.{{ requiredEnv "BASE_DOMAIN" }}
+    {{ end }} 
+resources:
+  requests:
+    cpu: 200m
+    memory: 512Mi
+healthChecks:
+    livenessDelay: 15
+    readinessDelay: 15
+    livenessPath: /
+    readinessPath: /
+port: 3000
+persistence:
+    enabled: true
+    accessMode: ReadWriteOnce
+    volumeMount:
+        path: /mnt/example
+    storageClass: dtsstorageclass
+    size: 2Gi

@@ -1,0 +1,41 @@
+repositories:
+    - name: dts
+      url: https://helm.dts-stn.com
+    # helm-git powered repository: You can treat any Git repository as a charts repository
+    - name: dojo
+      url: git+https://{{ requiredEnv "GITHUB_USER" }}:{{ requiredEnv "GITHUB_TOKEN" }}@github.com/DTS-STN/digital-dojo@helm/charts?ref=main
+{{- if or (eq .Environment.Name "prod-blue") (eq .Environment.Name "prod-green") }}    
+context: EsDCDTSRG-K8S
+{{ else }}
+context: EsDCDTSDevRG-K8S
+{{ end }}
+   
+environments:
+    benrd: 
+    kylerd:
+    adamrd:
+    marcusrd:
+    ericrd:
+    pondrd:
+    #USING INT, MAIN AND SPRINT TO REFLECT OUR INTEGRATION (PR VERSION), MAIN (REFLECTING MAIN BRANCH), SPRINT (STATIC RELEASE VERSION FOR SPRINT REVIEW)
+    int:
+    main:
+    sprint:
+    prod-blue:
+    prod-green: 
+
+releases:
+# dojo
+  - name: dojo-{{ .Environment.Name }}
+    chart: ../helm/charts/dojo
+    version: 0.0.1
+    values:
+      - overrides/dojo.yaml.gotmpl
+    labels:
+        category: dts
+        app: dojo
+        tier: server
+    namespace: dojo-{{ .Environment.Name }}
+    installed: true
+    wait: false
+    force: false

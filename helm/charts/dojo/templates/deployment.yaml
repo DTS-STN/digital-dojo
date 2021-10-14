@@ -35,7 +35,7 @@ spec:
               {{ if .Values.port }}
               containerPort: {{ .Values.port }}
               {{ else }}
-              containerPort: 4000
+              containerPort: 3000
               {{ end }}
               protocol: TCP
           livenessProbe:

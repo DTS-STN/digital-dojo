@@ -10,6 +10,8 @@ sass:
 include: 
   - _pages
 exclude:
+  - helm  
+  - helmfile
   - .circleci
   - cypress  
   - Gemfile*

@@ -1,6 +1,6 @@
 image:
-  repository: mtscontainers.azurecr.io/{{ requiredEnv "PROJECT" }}
-  tag: "{{ env "DOCKER_TAG" | default "latest" }}" 
+  repository: mtscontainers.azurecr.io/dojo
+  tag: TC-test 
   pullPolicy: Always
 service:
   annotations:

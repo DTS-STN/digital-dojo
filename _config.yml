@@ -1,0 +1,23 @@
+# SITE CONFIGURATION
+baseurl: "/digital-dojo"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+include: 
+  - _pages
+exclude:
+  - .circleci
+  - cypress  
+  - Gemfile*
+  - LICENSE
+  - node_modules
+  - package*.json
+  - README.md
+  - vendor
+  - helm
+  - helmfile
+  - Dockerfile

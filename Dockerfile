@@ -7,4 +7,4 @@ RUN find /var/dojo/helm -delete
 RUN find /var/dojo/helmfile -delete
 RUN bundle install
 CMD JEKYLL_ENV=production bundle exec jekyll build
-ENTRYPOINT ["jekyll", "serve"]
+ENTRYPOINT ["jekyll", "serve", "--baseurl", "/digital-dojo"]

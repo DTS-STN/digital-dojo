@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/"
+baseurl: ""
 
 # BUILD SETTINGS
 markdown: kramdown

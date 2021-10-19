@@ -9,6 +9,8 @@ callout: >
 ---
 
 ## Foire aux questions (FAQ) du Dojo Numérique
+<p>Nous prenons les questions les plus posées et y répondons pour vous !</p>
+<hr class="line_break">
 
 <details>
   <summary>Qui peut fréquenter le Dojo ?</summary>

@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Automated tests for the Digital Task Force website",
   "scripts": {
-    "cypress:open": "cypress open --env host=http://localhost:8080",
-    "cypress:run": "cypress run --env host=http://localhost:8080",
-    "cypress:ci": "cypress run --env host=http://localhost:8080 --record --group functional-tests",
+    "cypress:open": "cypress open --env host=http://127.0.0.1:4000/digital-dojo/",
+    "cypress:run": "cypress run --env host=http://127.0.0.1:4000/digital-dojo/",
+    "cypress:ci": "cypress run --env host=http://127.0.0.1:4000/digital-dojo/ ci",
     "server:start": "static _site"
   },
   "repository": {

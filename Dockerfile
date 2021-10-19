@@ -1,7 +1,7 @@
 FROM jekyll/jekyll:latest
 COPY . /var/dojo
 WORKDIR /var/dojo
-RUN chown -R jekyll *
+RUN mkdir _site
 RUN find /var/dojo/helm -delete
 RUN find /var/dojo/helmfile -delete
 RUN bundle install

@@ -246,6 +246,7 @@ img[align=right] {
   margin-right: auto; 
 }
 
+
 .inline-img-40  {
   img {
     width: 40%;
@@ -284,11 +285,11 @@ li.breadcrumb-item:before {
 }
 
 .sidebar {
-  height: 93%; /* 100% Full-height */
+  height: 100%; /* 100% Full-height */
   width: 0; /* 0 width - change this with JavaScript */
   position: fixed; /* Stay in place */
   z-index: 1; /* Stay on top */
-  top: 7%;
+  top: 83px;
   left: 0;
   background-color: $sidebar-color; 
   overflow-x: hidden; /* Disable horizontal scroll */
@@ -357,3 +358,4 @@ li.breadcrumb-item:before {
   margin-left: auto;
   margin-right: auto;
   width: 40%;}
+

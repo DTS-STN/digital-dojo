@@ -2,10 +2,10 @@ footer {
   .site-footer {
     @extend %padding-small;
     width: 100%;
-
     p {
       margin: 0;
     }
+    border-top: 1px solid $border-color;
   }
 
 

@@ -1,0 +1,28 @@
+repositories:
+  - name: stable
+    url: https://charts.helm.sh/stable
+
+context: {{ requiredEnv "K8S_CLUSTER_NAME" }}
+   
+environments:
+  dev:
+  int:
+  main:
+  sprint:
+  prod-blue:
+  prod-green:
+  benc:
+  benl: 
+
+releases:
+# Single Tier Website
+  - name: {{ requiredEnv "PROJECT" }}-{{ .Environment.Name }}
+    chart: ../helm/charts/dojo
+    values:
+      - overrides/dojo/dojo.yaml.gotmpl
+    labels:
+        category: dts
+        app: dojo
+        tier: frontend
+    namespace: dojo-{{ .Environment.Name }}
+    installed: true

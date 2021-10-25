@@ -36,24 +36,24 @@ fr:
   home_url: accueil  
   language: Français
   language_swap: Sélection de la langue
-  meta_description: The Digital Dojo wants to help ESDC modernize service delivery
-  meta_title: Dojo Numerique
+  meta_description: Le Dojo numérique veut aider EDSC à moderniser la prestation de services
+  meta_title: Dojo Numérique
   meta_title_acronym: DD
-  canada_ca: Government of Canada
+  canada_ca: Gouvernement du Canada
   canada_ca_url: https://www.canada.ca/fr/
   apply_url: ../appliquez
-  apply: Join with your team
+  apply: Inscrivez votre équipe
   contact_url: ../contacteznous
-  contact: Contactez nous
+  contact: Contactez-nous
   partners_url: ../partenaires
-  partners: Our Partners
+  partners: Nos parternaires
   here: ici
   faq_url: ../faq
-  faq: Dojo FAQ
+  faq: Foire aux questions (FAQ)
   events_url: ../events
-  events: Dojo Events
+  events: Événements 
   learn_url: ../apprendre
-  learn:  Dojo Experience
+  learn:  L'expérience dojo
   openhouse_url: ../openhouse
-  openhouse: Workshop
-  register: Register now for our Retrospectice Workshop on November 24, 2021!
+  openhouse: Ateliers
+  register: Inscrivez-vous dès maintenant à notre atelier Rétrospectives qui aura lieu le 24 novembre 2021 !

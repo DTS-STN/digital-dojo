@@ -54,6 +54,14 @@
   opacity: 0.7;
 }
 
+iframe {
+  display: block;
+  border-style:none;
+  width: 560px;
+  height: 315px;
+  margin: 0 auto;
+}
+
 .font-xl {
   font-size: 1.8em !important;
 }
@@ -164,3 +172,4 @@ padding:1rem;
   0%    {opacity: 0; margin-top: -10px}
   100%  {opacity: 1; margin-top: 0px}
 }
+

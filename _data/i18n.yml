@@ -17,7 +17,7 @@ en:
   partners_url: ../partners
   partners: Our Partners
   learn_url: ../learn
-  learn: Learn More
+  learn:  Dojo Experience
   partners: Want to Learn More?
   here: here
   faq_url: ../faq
@@ -26,7 +26,7 @@ en:
   events: Dojo Events
   openhouse_url: ../openhouse
   openhouse: Workshop
-  dojodeck_url: ../assets/material/dojo-deck-en.ppt
+  dojodeck_url: ../digital-dojo/assets/material/dojo-deck-en.ppt
 
 fr:
   continue_reading: Continuer à lire
@@ -52,6 +52,6 @@ fr:
   events_url: ../events
   events: Dojo Events
   learn_url: ../learn
-  learn: Learn More
+  learn:  Dojo Experience
   openhouse_url: ../openhouse
   openhouse: Workshop

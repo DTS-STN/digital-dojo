@@ -27,6 +27,7 @@ en:
   openhouse_url: ../openhouse
   openhouse: Workshop
   dojodeck_url: ../digital-dojo/assets/material/dojo-deck-en.ppt
+  register: Register now for our Retrospectice Workshop on November 24, 2021!
 
 fr:
   continue_reading: Continuer à lire
@@ -51,7 +52,8 @@ fr:
   faq: Dojo FAQ
   events_url: ../events
   events: Dojo Events
-  learn_url: ../learn
+  learn_url: ../apprendre
   learn:  Dojo Experience
   openhouse_url: ../openhouse
   openhouse: Workshop
+  register: Register now for our Retrospectice Workshop on November 24, 2021!

@@ -6,7 +6,7 @@ title:
 permalink: /home/
 ---
 
-
+<a href= "../openhouse" class="center">Register now for our Retrospectice Workshop on November 24, 2021!</a>
 
 ## What's a Dojo?
 
@@ -24,36 +24,6 @@ permalink: /home/
         <a href="../assets/img/Team_charter_EN.png" alt="Digital Dojo one-pager"><img src="../assets/img/Team_charter_EN.png" alt="Digital Dojo one-pager"/></a>
         <p>View our Team Charter</p>
         
-    </div>
-</div>
-
-<p><img src="../assets/img/decorative-dots.png" class="dots" role="presentation" alt=""></p>
-
-
-## What the Digital Dojo is and isn't
-
-We aim to provide an engaging virtual learning experience catered to your team, and your goals. Because of that, there is no standard definition for what a Dojo experience will be, but we do know the type of experience we'd like to create:
-
-<div class="grid">
-    
-    <div class="item1">
-    <img src="../assets/img/thumb_down.png" alt="What a Dojo isn't"/>
-        <ul>
-            <li> Classroom Training </li>
-            <li> A center of Expertise </li>
-            <li> Abstract or High-Level Theory </li>
-            <li> Exercises with predefined Answers </li>
-        </ul>
-    </div>
-
-    <div class="item2" >
-        <img src="../assets/img/thumb_up.png" alt="What a Dojo is"/>
-        <ul>
-            <li> Practical & immersive experience</li>
-            <li> Experts working directly with your team </li>
-            <li> Learn while working on a real product </li>
-            <li> Customized to your objectives </li>
-        </ul>
     </div>
 </div>
 

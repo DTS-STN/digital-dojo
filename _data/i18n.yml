@@ -25,7 +25,7 @@ en:
   events_url: ../events
   events: Dojo Events
   openhouse_url: ../openhouse
-  openhouse: Open House
+  openhouse: Workshop
   dojodeck_url: ../assets/material/dojo-deck-en.ppt
 
 fr:
@@ -54,4 +54,4 @@ fr:
   learn_url: ../learn
   learn: Learn More
   openhouse_url: ../openhouse
-  openhouse: Open House
+  openhouse: Workshop

@@ -2,7 +2,9 @@ en:
   continue_reading: Continue reading
   footer_hosted: <a href="https://github.com/DTS-STN">Hosted on GitHub</a>.
   footer_improve: <a href="https://github.com/DTS-STN">Help us improve</a>.    
-  home_url: home  
+  home: Home
+  home_url: ../home  
+  spash_home_url: home  
   language: English
   language_swap: Language swap
   meta_description: The Digital Dojo wants to help ESDC modernize service delivery
@@ -33,7 +35,9 @@ fr:
   continue_reading: Continuer à lire
   footer_hosted: <a href="https://github.com/DTS-STN">Hébergé sur GitHub</a>.
   footer_improve: <a href="https://github.com/DTS-STN">Aidez-nous à améliorer</a>.
-  home_url: accueil  
+  home: Accueil
+  home_url: ../accueil
+  spash_home_url: accueil    
   language: Français
   language_swap: Sélection de la langue
   meta_description: Le Dojo numérique veut aider EDSC à moderniser la prestation de services
@@ -48,7 +52,7 @@ fr:
   partners_url: ../partenaires
   partners: Nos parternaires
   here: ici
-  faq_url: ../faq
+  faq_url: ../foireauxquestions
   faq: Foire aux questions (FAQ)
   events_url: ../events
   events: Événements 

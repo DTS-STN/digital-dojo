@@ -7,9 +7,9 @@ permalink: /apprendre/
 categories: learn
 ---
 
-What would a stay in the dojo look like? In this video, we try to explain more about what your team's dojo experience might look like.
+A quoi ressemblerait un séjour dans notre dojo ? Dans cette vidéo, nous expliquons en plus en détail à quoi pourrait ressembler l'expérience de votre équipe.
 
-In this example, the team wants to explore Agile but the Dojo Team can help you with all of your Digital Transformation goals, aligning to the TBS Digital Standards.
+Dans cet exemple, l'équipe souhaite pratiquer des méthodes agiles, mais notre dojo peut vous aider avec tous vos objectifs de transformation numérique, en vous alignant aux normes numériques du Secrétariat du Conseil du Trésor du Canada (SCT).
 
 <div class="iframe">
     <iframe src="https://www.youtube.com/embed/vOywFQBm11A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

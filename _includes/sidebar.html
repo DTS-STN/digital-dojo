@@ -4,6 +4,7 @@
   <body vocab="http://schema.org/" typeof="WebPage">
     <div id="mySidebar" class="sidebar">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <a href= "{{ site.data.i18n[page.lang].openhouse_url | default: site.data.i18n.en.openhouse_url }}">{{ site.data.i18n[page.lang].openhouse }}</a>
       <a href="{{ site.data.i18n[page.lang].home_url | default: site.data.i18n.en.home_url }}">{{ site.data.i18n[page.lang].home | default: site.data.i18n.en.home }}</a>
       <a href="{{ site.data.i18n[page.lang].faq_url | default: site.data.i18n.en.faq_url }}">{{ site.data.i18n[page.lang].faq | default: site.data.i18n.en.faq }}</a>
       <a href="{{ site.data.i18n[page.lang].learn_url | default: site.data.i18n.en.learn_url }}">{{ site.data.i18n[page.lang].learn | default: site.data.i18n.en.learn }}</a>

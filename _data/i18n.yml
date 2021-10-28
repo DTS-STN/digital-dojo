@@ -2,7 +2,9 @@ en:
   continue_reading: Continue reading
   footer_hosted: <a href="https://github.com/DTS-STN">Hosted on GitHub</a>.
   footer_improve: <a href="https://github.com/DTS-STN">Help us improve</a>.    
-  home_url: home  
+  home: Home
+  home_url: ../home  
+  spash_home_url: home  
   language: English
   language_swap: Language swap
   meta_description: The Digital Dojo wants to help ESDC modernize service delivery
@@ -11,31 +13,51 @@ en:
   canada_ca: Government of Canada
   canada_ca_url: https://www.canada.ca/en/
   apply_url: ../apply
-  apply: Apply for the Dojo
+  apply: Join with your team
   contact_url: ../contactus
   contact: Contact us
   partners_url: ../partners
   partners: Our Partners
   learn_url: ../learn
+  learn:  Dojo Experience
   partners: Want to Learn More?
   here: here
+  faq_url: ../faq
+  faq: Dojo FAQ
+  events_url: ../events
+  events: Dojo Events
+  openhouse_url: ../openhouse
+  openhouse: Register for a Workshop
+  dojodeck_url: ../digital-dojo/assets/material/dojo-deck-en.ppt
+  register: Register now for our Retrospectice Workshop on November 24, 2021!
 
 fr:
   continue_reading: Continuer à lire
   footer_hosted: <a href="https://github.com/DTS-STN">Hébergé sur GitHub</a>.
   footer_improve: <a href="https://github.com/DTS-STN">Aidez-nous à améliorer</a>.
-  home_url: accueil  
+  home: Accueil
+  home_url: ../accueil
+  spash_home_url: accueil    
   language: Français
   language_swap: Sélection de la langue
-  meta_description: The Digital Dojo wants to help ESDC modernize service delivery
-  meta_title: Dojo Numerique
+  meta_description: Le Dojo numérique veut aider EDSC à moderniser la prestation de services
+  meta_title: Dojo Numérique
   meta_title_acronym: DD
-  canada_ca: Government of Canada
+  canada_ca: Gouvernement du Canada
   canada_ca_url: https://www.canada.ca/fr/
   apply_url: ../appliquez
-  apply: Apply to the Dojo
+  apply: Inscrivez votre équipe
   contact_url: ../contacteznous
-  contact: Contactez nous
+  contact: Contactez-nous
   partners_url: ../partenaires
-  partners: Our Partners
+  partners: Nos parternaires
   here: ici
+  faq_url: ../foireauxquestions
+  faq: Foire aux questions (FAQ)
+  events_url: ../events
+  events: Événements 
+  learn_url: ../apprendre
+  learn:  L'expérience dojo
+  openhouse_url: ../portesouvertes
+  openhouse: Ateliers
+  register: Inscrivez-vous dès maintenant à notre atelier Rétrospectives qui aura lieu le 24 novembre 2021 !

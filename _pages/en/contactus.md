@@ -4,7 +4,7 @@ title: Contact Us
 lang: en
 ref: contactus
 permalink: /contactus/
-
+categories: contactus
 ---
 
 ### Question? No problem! We're here to answer any questions about the Dojo.

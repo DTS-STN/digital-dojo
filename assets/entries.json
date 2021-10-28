@@ -1,0 +1,23 @@
+{
+    "entries": [
+      {
+        "start": "2021-10-20T13:00:00Z",
+        "end": "2021-10-20T15:00:00Z",
+        "title": "Discovery: Sharepoint Chartering",
+        "color": "#5742f5",
+        "id": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg",
+        "content": "The Dojo team will be hosting out friends in the Sharepoint / O365 Power Platform team for a Chartering Session! "
+      },
+      {
+        "start": "2021-11-24T13:00:00Z",
+        "end": "2021-11-24T15:00:00Z",
+        "title": "Digital Dojo Workshop: Retrospectices",
+        "id": 2,
+        "color": "#316509",
+        "content": "Join us for a virtual workshop on Retrospectives! Learn more, and register now: <a href=\"https://dts-stn.github.io/digital-dojo/openhouse/\">Virtual Workshop</a> ",
+        "image": "https://images.ctfassets.net/a6zo0szqvm4a/2apRmW5Bov3kaIBi3KeSa4/71f9227b86c689ea42273acdd9a3128e/guide-cover.png"
+      }
+
+    ]
+  }

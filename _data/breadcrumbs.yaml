@@ -1,0 +1,27 @@
+apply:
+  title: Dojo Application
+  url: /apply/
+
+contact:
+  title: Contact Us
+  url: /contactus/
+
+discovery-fb:
+  title: Discovery Feedback Form
+  url: /discovery-fb/
+
+faq:
+  title: FAQ
+  url: /faq/
+
+home:
+  title: Home
+  url: /home/
+
+learn:
+  title: Learn More
+  url: /learn/
+
+openhouse:
+  title: Open House
+  url: /openhouse/

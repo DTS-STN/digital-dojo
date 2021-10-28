@@ -4,6 +4,7 @@ title: Discovery - Feedback form
 lang: en
 ref: discovery-fb
 permalink: /discovery-fb/
+categories: home discovery-fb
 ---
 
 ### Discovery Phase - Feedback

@@ -24,7 +24,7 @@ We find that telling people what we do isn't enough. We want to give people a ch
     </p>
 
     <p>
-    For example, if you've heard about retrospectives, but never had the chance to actually run or be part of one, you can learn more by actually participating in one with us during the open house.
+    For example, if you've heard about retrospectives, but never had the chance to actually run or be part of one, you can learn more by actually participating in one with us during the workshop.
     </p>
 
 </div>

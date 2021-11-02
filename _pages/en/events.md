@@ -25,8 +25,8 @@ var calendar = new Calendar({
     data: {
     escape: false,
     view: 'calendar',
-    year: 2021,
-    month: 10,
+    year: 20{{ site.time | date: '%y' }},
+    month: {{ site.time | date: '%m' }} -1,
     }
 })
 calendar.set({message: 'loading...'})

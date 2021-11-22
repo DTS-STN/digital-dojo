@@ -42,125 +42,68 @@ project {
     }
 }
 
-object Build : BuildType({
-    name = "Build & Deploy PR"
-    description = "dojo-int.dev.dts-stn.com/digital-dojo/"
-
-    allowExternalStatus = true
-
-    params {
-        param("env.BASE_DOMAIN", "dev.dts-stn.com")
-        param("env.TARGET", "int")
-        param("env.K8S_CLUSTER_NAME", "ESdCDTSK8SDev-K8S-admin")
-    }
-
-    vcs {
-        root(DojoGithub)
-    }
-
-    steps {
-        script {
-            name = "Build & Tag Docker Image"
-            scriptContent = """
-                chmod -R 777 *
-                docker build -t ${'$'}ACR_DOMAIN/${'$'}PROJECT:${'$'}DOCKER_TAG .
-            """.trimIndent()
-        }
-        script {
-            name = "Login to Azure and ACR"
-            scriptContent = """
-                az login --service-principal -u %TEAMCITY_USER% -p %TEAMCITY_PASS% --tenant %env.TENANT-ID%
-                az account set -s %env.SUBSCRIPTION%
-                az acr login -n MTSContainers
-            """.trimIndent()
-        }
-        dockerCommand {
-            name = "Push Image to ACR"
-            commandType = push {
-                namesAndTags = "%env.ACR_DOMAIN%/%env.PROJECT%:%env.DOCKER_TAG%"
-            }
-        }
-        script {
-            name = "Deploy w/ Helmfile"
-            scriptContent = """
-                cd ./helmfile
-                az account set -s %env.SUBSCRIPTION%
-                az aks get-credentials --admin --resource-group %env.RG_DEV% --name %env.AKS_DEV%
-                helmfile -e ${'$'}TARGET apply
-            """.trimIndent()
-        }
-    }
-
-    triggers {
-        vcs {
-            branchFilter = "+:refs/pull/*/head"
-        }
-    }
-})
-
-object BuildDeployMain : BuildType({
-    name = "Build & Deploy Main"
-    description = "dojo-main.dev.dts-stn.com/digital-dojo/"
-
-    allowExternalStatus = true
-
-    params {
-        param("env.BASE_DOMAIN", "dev.dts-stn.com")
-        param("env.TARGET", "main")
-        param("env.K8S_CLUSTER_NAME", "ESdCDTSK8SDev-K8S-admin")
-    }
-
-    vcs {
-        root(DojoGithub)
-    }
-
-    steps {
-        script {
-            name = "Build & Tag Docker Image"
-            scriptContent = """
-                chmod -R 777 *
-                docker build -t ${'$'}ACR_DOMAIN/${'$'}PROJECT:${'$'}DOCKER_TAG .
-            """.trimIndent()
-        }
-        script {
-            name = "Login to Azure and ACR"
-            scriptContent = """
-                az login --service-principal -u %TEAMCITY_USER% -p %TEAMCITY_PASS% --tenant %env.TENANT-ID%
-                az account set -s %env.SUBSCRIPTION%
-                az acr login -n MTSContainers
-            """.trimIndent()
-        }
-        dockerCommand {
-            name = "Push Image to ACR"
-            commandType = push {
-                namesAndTags = "%env.ACR_DOMAIN%/%env.PROJECT%:%env.DOCKER_TAG%"
-            }
-        }
-        script {
-            name = "Deploy w/ Helmfile"
-            scriptContent = """
-                cd ./helmfile
-                az account set -s %env.SUBSCRIPTION%
-                az aks get-credentials --admin --resource-group %env.RG_DEV% --name %env.AKS_DEV%
-                helmfile -e ${'$'}TARGET apply
-            """.trimIndent()
-        }
-    }
-
-    triggers {
-        vcs {
-            branchFilter = "+:<default>"
-        }
-    }
-})
-
 object DojoGithub : GitVcsRoot({
     name = "Dojo github"
     url = "https://github.com/DTS-STN/digital-dojo"
     branch = "refs/heads/main"
-    branchSpec = "+:*"
+    branchSpec = "+:refs/heads/*"
     authMethod = uploadedKey {
         userName = "git"
         uploadedKey = "dtsrobot"
+    }
+})
+
+object Build : BuildType({
+    name = "Build & Deploy Dynamic Branches"
+    description = "dojo-<<yourbranchname>>.dev.dts-stn.com/digital-dojo/"
+
+    params {
+        param("env.BASE_DOMAIN", "dev.dts-stn.com")
+        param("env.TARGET", "dev")
+        param("env.K8S_CLUSTER_NAME", "ESdCDTSK8SDev-K8S-admin")
+        param("env.BRANCH", "%teamcity.build.branch%")
+    }
+
+    vcs {
+        root(DojoGithub)
+    }
+
+    steps {
+        script {
+            name = "Build & Tag Docker Image"
+            scriptContent = """
+                chmod -R 777 *
+                docker build -t ${'$'}ACR_DOMAIN/${'$'}PROJECT:${'$'}DOCKER_TAG .
+            """.trimIndent()
+        }
+        script {
+            name = "Login to Azure and ACR"
+            scriptContent = """
+                az login --service-principal -u %TEAMCITY_USER% -p %TEAMCITY_PASS% --tenant %env.TENANT-ID%
+                az account set -s %env.SUBSCRIPTION%
+                az acr login -n MTSContainers
+            """.trimIndent()
+        }
+        dockerCommand {
+            name = "Push Image to ACR"
+            commandType = push {
+                namesAndTags = "%env.ACR_DOMAIN%/%env.PROJECT%:%env.DOCKER_TAG%"
+            }
+        }
+        script {
+            name = "Deploy w/ Helmfile"
+            scriptContent = """
+                cd ./helmfile
+                az account set -s %env.SUBSCRIPTION%
+                az aks get-credentials --admin --resource-group %env.RG_DEV% --name %env.AKS_DEV%
+                helmfile -e ${'$'}TARGET apply
+            """.trimIndent()
+        }
+    }
+
+    triggers {
+        vcs {
+            branchFilter = "+:*"
+        }
     }
 })

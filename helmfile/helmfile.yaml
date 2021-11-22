@@ -11,12 +11,10 @@ environments:
   sprint:
   prod-blue:
   prod-green:
-  benc:
-  benl: 
-
+    
 releases:
 # Single Tier Website
-  - name: {{ requiredEnv "PROJECT" }}-{{ .Environment.Name }}
+  - name: {{ requiredEnv "PROJECT" }}-{{ requiredEnv "BRANCH" }}
     chart: ../helm/charts/dojo
     values:
       - overrides/dojo/dojo.yaml.gotmpl
@@ -24,5 +22,5 @@ releases:
         category: dts
         app: dojo
         tier: frontend
-    namespace: dojo-{{ .Environment.Name }}
+    namespace: dojo-{{ requiredEnv "BRANCH" }}
     installed: true

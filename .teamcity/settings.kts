@@ -159,8 +159,8 @@ object DojoGithub : GitVcsRoot({
     url = "https://github.com/DTS-STN/digital-dojo"
     branch = "refs/heads/main"
     branchSpec = "+:*"
-    authMethod = password {
-        userName = "dtsrobot"
+    authMethod = uploadedKey {
+        userName = "git"
+        uploadedKey = "dtsrobot"
     }
-    param("useAlternates", "true")
 })

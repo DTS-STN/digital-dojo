@@ -30,12 +30,8 @@ version = "2021.2"
 
 project {
     description = "Dojo Website"
-
     vcsRoot(DojoGithub)
-
     buildType(Build)
-    buildType(BuildDeployMain)
-
     params {
         param("env.PROJECT", "dojo")
         param("env.TARGET", "main")

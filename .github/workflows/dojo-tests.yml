@@ -2,6 +2,16 @@ name: Build and Test https://dojo-${GITHUB_REF##*/}.dev.dts-stn.com
 
 on:
   pull_request:
+  workflow_dispatch:
+    # Inputs the workflow accepts.
+    inputs:
+      name:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: "https://dojo-${GITHUB_REF##*/}.dev.dts-stn.com"
+        # Default value if no value is explicitly provided
+        default: "https://dojo-${GITHUB_REF##*/}.dev.dts-stn.com"
+        # Input has to be provided for the workflow to run
+        required: true
 jobs:
   cypress-run:
     runs-on: ubuntu-20.04

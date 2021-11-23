@@ -6,7 +6,7 @@ title:
 permalink: /home/
 ---
 
-<a href= "../openhouse" class="center">Register now for our Retrospective Workshop on November 24, 2021!</a>
+<a href= "../openhouse" class="center">Register now for our Retrospective Workshop on December 8, 2021!</a>
 
 ## What's a Dojo?
 

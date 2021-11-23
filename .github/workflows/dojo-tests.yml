@@ -1,5 +1,4 @@
-
-name: Build and Test (E2E)
+name: Build and Test (url - "https://dojo-${GITHUB_REF##*/}.dev.dts-stn.com")
 
 on:
   pull_request:

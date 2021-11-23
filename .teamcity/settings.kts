@@ -51,7 +51,7 @@ object DojoGithub : GitVcsRoot({
 })
 
 object DojoGithubPR : GitVcsRoot({
-    name = "Dojo github"
+    name = "Dojo github PR"
     url = "https://github.com/DTS-STN/digital-dojo"
     branch = "refs/heads/main"
     branchSpec = "+:refs/pull/*"

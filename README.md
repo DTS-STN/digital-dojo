@@ -1,5 +1,4 @@
-# Digital Dojo
-
+# Digital Dojo 
 [Website for our team](https://dts-stn.github.io/digital-dojo/home/), working in Digital Technology Solutions within IITB at ESDC.
 
 # Local development

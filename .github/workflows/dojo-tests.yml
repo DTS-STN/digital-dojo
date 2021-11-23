@@ -1,4 +1,4 @@
-name: Build and Test (url - "https://dojo-"${GITHUB_REF##*/}".dev.dts-stn.com")
+name: Build and Test https://dojo-${GITHUB_REF##*/}.dev.dts-stn.com
 
 on:
   pull_request:

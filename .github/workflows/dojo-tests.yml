@@ -1,9 +1,20 @@
-
 name: Build and Test (E2E)
 
 on:
   pull_request:
 jobs:
+  comment_environment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🔔
+        uses: actions/checkout@v2
+
+      - name: Comment PR
+        uses: thollander/actions-comment-pull-request@v1
+
+        with:
+          message: "Integration branch URL: https://dojo-${{ github.head_ref }}.dev.dts-stn.com/home"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   cypress-run:
     runs-on: ubuntu-20.04
     steps:

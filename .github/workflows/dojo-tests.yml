@@ -13,7 +13,7 @@ jobs:
         uses: thollander/actions-comment-pull-request@v1
 
         with:
-          message: "Integration branch URL: https://dojo-${{ github.head_ref }}.dev.dts-stn.com/digital-dojo"
+          message: "Integration branch URL: https://dojo-${{ github.head_ref }}.dev.dts-stn.com/digital-dojo/"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   cypress-run:
     runs-on: ubuntu-20.04

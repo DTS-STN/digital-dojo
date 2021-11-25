@@ -14,7 +14,7 @@ environments:
     
 releases:
 # Single Tier Website
-  - name: {{ requiredEnv "PROJECT" }}-{{ requiredEnv "BRANCH" }}
+  - name: {{ requiredEnv "PROJECT" }}-{{ requiredEnv "BRANCH" | lower }}
     chart: ../helm/charts/dojo
     values:
       - overrides/dojo/dojo.yaml.gotmpl
@@ -22,6 +22,6 @@ releases:
         category: dts
         app: dojo
         tier: frontend
-    namespace: dojo-{{ requiredEnv "BRANCH" }}
+    namespace: dojo-{{ requiredEnv "BRANCH" | lower }}
     installed: true
     

@@ -6,7 +6,6 @@ title: Accueil
 permalink: /accueil/
 ---
 
-<a href= "../openhouse" class="center">{{ site.data.i18n[page.lang].register }}</a>
 
 ## Qu'est-ce qu'un Dojo?
 

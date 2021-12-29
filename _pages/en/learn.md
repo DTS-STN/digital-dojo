@@ -7,7 +7,7 @@ permalink: /learn/
 categories: learn
 ---
 
-What would a stay in the dojo look like? In this video, we try to explain more about what your team's dojo experience might look like.
+What would a stay in the Dojo look like? In this video, we try to explain more about what your team's Dojo experience might look like.
 
 In this example, the team wants to explore Agile but the Dojo Team can help you with all of your Digital Transformation goals, aligning to the TBS Digital Standards.
 

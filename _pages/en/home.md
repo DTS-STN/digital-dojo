@@ -6,7 +6,7 @@ title:
 permalink: /home/
 ---
 
-<a href= "../openhouse" class="center">Register now for our Retrospective Workshop on December 8, 2021!</a>
+
 
 ## What's a Dojo?
 
@@ -32,9 +32,9 @@ permalink: /home/
 ## Why our Dojo?
 
 ### Team Based Experience 
-We upskill a whole team – business and IT - together.​ This builds trust, mutual​understanding, cohesion and​collaboration
+We upskill a whole team – business and IT - together.​ This builds trust, mutual​ understanding, cohesion and​ collaboration
 
-### Government of Canada Focus
+### Government of Canada Focused
 We cater our experienced based on realistic Government of Canada IT practices, standards,​ languages and challenges.
 
 ### Virtual Learning

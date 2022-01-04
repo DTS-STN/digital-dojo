@@ -20,6 +20,8 @@ en:
   partners: Our Partners
   learn_url: ../learn
   learn:  Dojo Experience
+  resources_url: ../resources
+  resources: Tools & Resources
   partners: Want to Learn More?
   here: here
   faq_url: ../faq
@@ -58,6 +60,9 @@ fr:
   events: Événements 
   learn_url: ../apprendre
   learn:  L'expérience dojo
+  resources_url: ../ressources
+  resources: Outils et ressources
   openhouse_url: ../portesouvertes
   openhouse: Ateliers
   register: Inscrivez-vous dès maintenant à notre atelier Rétrospectives qui aura lieu le 8 décembre 2021 !
+

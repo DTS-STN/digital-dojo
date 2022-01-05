@@ -3,9 +3,7 @@ layout: home
 lang: en
 title: Tools and Resources
 ref: resources
-title:  
 permalink: /resources/
-categories: resources
 ---
 
 # Currated Video Playlists

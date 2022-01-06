@@ -6,6 +6,33 @@ title: Accueil
 permalink: /accueil/
 ---
 
+ <!-- Slideshow container -->
+<div class="slideshow-container fade">
+
+  <!-- Full images with numbers and message Info -->
+  <div class="Containers">
+        « Le Digital Dojo a fourni une excellente introduction aux méthodes d'utilisation d'Azure DevOps et d'Agile dans son ensemble.
+        Leur service est collaboratif avec les membres de l'équipe à un niveau personnel, et ils s'adaptent systématiquement aux besoins des autres. »
+        <div class="signature">- Stefan M. (ESDC)</div>
+  </div>
+
+  <div class="Containers">
+    « Votre équipe est toujours innovante et nous a maintenus engagés tout au long du coaching. Vous avez écouté nos exigences et nous avez mis en contact avec des experts en la matière... J'encourage mes pairs à se connecter au Dojo pour apprendre et améliorer leurs fonctions professionnelles quotidiennes. »
+    <div class="signature">- Uma P. (ESDC)</div>
+
+  </div>
+
+  <!-- Back and forward buttons -->
+  <a class="Back" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="forward" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The circles/dots -->
+<div style="text-align:center">
+  <span class="dotty" onclick="currentSlide(1)"></span>
+  <span class="dotty" onclick="currentSlide(2)"></span>
+</div> 
 
 ## Qu'est-ce qu'un Dojo?
 

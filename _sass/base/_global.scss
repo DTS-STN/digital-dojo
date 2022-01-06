@@ -385,20 +385,20 @@ li.breadcrumb-item:before {
 
 .signature {
   text-align: right;
-  font-style: italic;
 }
 
 /* Make the images invisible by default */
 .Containers {
   width: 80%;
   margin: auto;
-  padding: 1%;
-  
+  padding: 3%;
+  font-size: 0.85em;
+  font-style: italic;
   border: 1px solid;
   color: $quote-text-color;
   border-color: $sidebar-button-color;
   border-radius: 0% 0% 0% 0% / 0% 0% 0% 0% ;
-  box-shadow: 20px 20px rgba(0,0,0,.15);
+  box-shadow: 10px 10px rgba(0,0,0,.5);
   transition: all .4s ease;
 }
 

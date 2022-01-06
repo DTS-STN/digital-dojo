@@ -7,6 +7,34 @@ permalink: /home/
 ---
 
 
+ <!-- Slideshow container -->
+<div class="slideshow-container fade">
+
+  <!-- Full images with numbers and message Info -->
+  <div class="Containers">
+        "The Digital Dojo provided an excellent introduction into the methods involved with using Azure DevOps, and Agile as a whole. 
+        Their service is collaborative with team members on a personal level, and they consistently accommodate the needs of others."
+        <div class="signature">- Stefan M. (ESDC)</div>
+  </div>
+
+  <div class="Containers">
+    "Your team is always innovative and kept us engaged throughout the coaching. You have listened to our requirements and connected us to subject matter experts ... I would encourage my peers to connect to the Dojo for learning and improving their day-to-day job functions."
+    <div class="signature">- Uma P. (ESDC)</div>
+
+  </div>
+
+  <!-- Back and forward buttons -->
+  <a class="Back" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="forward" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The circles/dots -->
+<div style="text-align:center">
+  <span class="dotty" onclick="currentSlide(1)"></span>
+  <span class="dotty" onclick="currentSlide(2)"></span>
+</div> 
+
 
 ## What's a Dojo?
 

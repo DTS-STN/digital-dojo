@@ -183,10 +183,10 @@ Continuous improvement is a process of improving quality and efficiency by makin
     <p>
     <strong>How It’s Used: </strong>Continuous improvement is used to introduce improvement into the work process on an incremental basis and involves the following steps: 
     <ol>
-    <li> Identify </li>
-    <li> Plan </li>
-    <li> Execute </li>
-    <li> Review.  </li>
+        <li> Identify </li>
+        <li> Plan </li>
+        <li> Execute </li>
+        <li> Review.  </li>
     </ol>
     </p>
     <p>
@@ -195,12 +195,13 @@ Continuous improvement is a process of improving quality and efficiency by makin
     </p>
     <p>
     Project Management Benefits:
-
+    <ul>
         <li>Improves productivity and delivery.</li>
         <li>Increases accuracy in forecasting future work and delivery.</li>
         <li>Streamlines work and reduces waste.</li>
         <li>Introduces improvement on an incremental basis.</li>
         <li>Increases a sense of pride and accomplishment in team members.</li>
+    <ul>
     </p>
 </div>
 </details>
@@ -219,11 +220,12 @@ Continuous improvement is a process of improving quality and efficiency by makin
     </p>
     <p>
     Project Management Benefits: 
-
-        <li> Enables rapid feedback, so that defects can be identified and corrected quickly.</li>
-        <li> Minimizes time and effort needed to perform each integration.</li>
-        <li> Provides an automated build and release process.</li>
-        <li> Allows software to be deliverable at any moment</li>
+        <ul>
+            <li> Enables rapid feedback, so that defects can be identified and corrected quickly.</li>
+            <li> Minimizes time and effort needed to perform each integration.</li>
+            <li> Provides an automated build and release process.</li>
+            <li> Allows software to be deliverable at any moment</li>
+        </ul>
     </p>
   </div>
 </details>

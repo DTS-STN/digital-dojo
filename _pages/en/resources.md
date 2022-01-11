@@ -209,24 +209,24 @@ Continuous improvement is a process of improving quality and efficiency by makin
 <details>
   <summary>Continuous Integration (CI)</summary>
   <div class="faq__content">
-    <p>	
-    Continuous integration is a software engineering practice that involves continual integration of new development code into the existing codebase. 
-    </P>
-    <p>
-    <strong>Also Known As: </strong>Continuous delivery, continuous deployment
-    </p>
-    <p>
-    <strong>How it’s Used: </strong>Once a feature is completed, developers test it for defects and then integrate it into the existing codebase. This ensures that the code repository always contains the latest working software build. In practice, this process is largely automated through the use of version control tools, team policies and conventions, and specific CI tools.
-    </p>
-    <p>
-    Project Management Benefits: 
-        <ul>
-            <li> Enables rapid feedback, so that defects can be identified and corrected quickly.</li>
-            <li> Minimizes time and effort needed to perform each integration.</li>
-            <li> Provides an automated build and release process.</li>
-            <li> Allows software to be deliverable at any moment</li>
-        </ul>
-    </p>
+  <p>	
+  Continuous integration is a software engineering practice that involves continual integration of new development code into the existing codebase. 
+  </p>
+  <p>
+  <strong>Also Known As: </strong>Continuous delivery, continuous deployment
+  </p>
+  <p>
+  <strong>How it’s Used: </strong>Once a feature is completed, developers test it for defects and then integrate it into the existing codebase. This ensures that the code repository always contains the latest working software build. In practice, this process is largely automated through the use of version control tools, team policies and conventions, and specific CI tools.
+  </p>
+  <p>
+  Project Management Benefits: 
+      <ul>
+          <li> Enables rapid feedback, so that defects can be identified and corrected quickly.</li>
+          <li> Minimizes time and effort needed to perform each integration.</li>
+          <li> Provides an automated build and release process.</li>
+          <li> Allows software to be deliverable at any moment</li>
+      </ul>
+  </p>
   </div>
 </details>
 

@@ -30,7 +30,7 @@ permalink: /home/
 <br>
 
 <!-- The circles/dots -->
-<div style="text-align:center">
+<div >
   <span class="dotty" onclick="currentSlide(1)"></span>
   <span class="dotty" onclick="currentSlide(2)"></span>
 </div> 

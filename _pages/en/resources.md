@@ -32,11 +32,11 @@ The following links lead to playlists curated by the Dojo team on a wide range o
 </p>
     Project Management Benefits:
     <ul>
-       <li> Confirms when a user story is complete.</li>
+      <li> Confirms when a user story is complete.</li>
 
-        <li>Helps the team understand the story/feature.</li>
+      <li>Helps the team understand the story/feature.</li>
 
-       <li> Removes ambiguity from requirements.</li>
+      <li> Removes ambiguity from requirements.</li>
     </ul>
   </div>
 </details>
@@ -44,63 +44,63 @@ The following links lead to playlists curated by the Dojo team on a wide range o
 <details>
   <summary>Acceptance Test</summary>
   <div class="faq__content">
-<p>	
-An Acceptance Test is derived from the Acceptance Criteria and verifies whether a feature is functional. The test has only two results: pass or fail. Many times, acceptance tests are automated so they can be performed on all versions of the software. Acceptance criteria usually include one or more acceptance tests.
-</p>
-<p>
-<strong>Also Known As: </strong>functional test, customer test, story test
-</p>
-<p>
-<strong>How it’s Used: </strong> Acceptance testing ensures that the software meets business and customer requirements. Acceptance tests are written by the product owner and should be brief statements that explain intended behavior and result. For example, “The user clicks on this button and the text turns red.” This test would result in either a pass or fail.
-</p>
-<p>
-Project Management Benefits:
-    <ul>
-        <li>Increases satisfaction of the customer by ensuring their requirements are met.</li>
-        <li>Identifies functionality and usability issues early on.</li>
-        <li>Promotes collaboration between developers and the end-user.</li>
-    </ul>
-</p>
-  </div>
+  <p>	
+  An Acceptance Test is derived from the Acceptance Criteria and verifies whether a feature is functional. The test has only two results: pass or fail. Many times, acceptance tests are automated so they can be performed on all versions of the software. Acceptance criteria usually include one or more acceptance tests.
+  </p>
+  <p>
+  <strong>Also Known As: </strong>functional test, customer test, story test
+  </p>
+  <p>
+  <strong>How it’s Used: </strong> Acceptance testing ensures that the software meets business and customer requirements. Acceptance tests are written by the product owner and should be brief statements that explain intended behavior and result. For example, “The user clicks on this button and the text turns red.” This test would result in either a pass or fail.
+  </p>
+  <p>
+  Project Management Benefits:
+      <ul>
+          <li>Increases satisfaction of the customer by ensuring their requirements are met.</li>
+          <li>Identifies functionality and usability issues early on.</li>
+          <li>Promotes collaboration between developers and the end-user.</li>
+      </ul>
+  </p>
+</div>
 </details>
 
 <details>
   <summary>Agile Manifesto</summary>
   <div class="faq__content">
-<p>	
-The Agile Manifesto includes four values and 12 principles of an iterative software development process. In February 2001, 17 software developers met in Utah to discuss lightweight development methods. They published the Manifesto for Agile Software Development, which covered how they found “better ways of developing software by doing it and helping others do it.”
-</p>
-<p>
-<strong>How it’s Used: </strong>Project managers refer to the Agile Manifesto when they are managing any process that aligns with its core concepts, such as Agile methodology.
-</p>
-<p>
-<ul>
-Project Management Benefits:
+  <p>	
+  The Agile Manifesto includes four values and 12 principles of an iterative software development process. In February 2001, 17 software developers met in Utah to discuss lightweight development methods. They published the Manifesto for Agile Software Development, which covered how they found “better ways of developing software by doing it and helping others do it.”
+  </p>
+  <p>
+  <strong>How it’s Used: </strong>Project managers refer to the Agile Manifesto when they are managing any process that aligns with its core concepts, such as Agile methodology.
+  </p>
+  <p>
+  <ul>
+  Project Management Benefits:
 
-    <li>Frequent testing and continuous delivery of valuable software.</li>
-    <li>Welcomes changing requirements.</li>
-    <li>Promotes cross-functional collaboration.</li>
-</ul>
-</p>
+      <li>Frequent testing and continuous delivery of valuable software.</li>
+      <li>Welcomes changing requirements.</li>
+      <li>Promotes cross-functional collaboration.</li>
+  </ul>
+  </p>
   </div>
 </details>
 
 <details>
   <summary>Application Lifecycle Management (ALM)</summary>
   <div class="faq__content">
-<p>	
-Application Lifecycle Management (ALM) is a continuous process of managing a software application from its initial planning to its retirement. 
-</p>
+  <p>	
+  Application Lifecycle Management (ALM) is a continuous process of managing a software application from its initial planning to its retirement. 
+  </p>
 
-<p>
-<strong>How it’s Used: </strong>ALM is used throughout the entire project and involves the use of a variety of tools to assist with requirements management, architecture, coding, testing, tracking, and release. 
-</p>
-<p>
-Project Management Benefits:
-    <li>Reduces risk by continuously monitoring project status.</li>
-    <li>Decreases cycle time and development costs.</li>
-    <li>Minimizes downtime.</li>
-</p>
+  <p>
+  <strong>How it’s Used: </strong>ALM is used throughout the entire project and involves the use of a variety of tools to assist with requirements management, architecture, coding, testing, tracking, and release. 
+  </p>
+  <p>
+  Project Management Benefits:
+      <li>Reduces risk by continuously monitoring project status.</li>
+      <li>Decreases cycle time and development costs.</li>
+      <li>Minimizes downtime.</li>
+  </p>
   </div>
 </details>
 
@@ -169,44 +169,6 @@ Project Management Benefits:
 </details>
 
 <details>
-  <summary>Continuous Improvement</summary>
-  <div class="faq__content">
-<p>	
-	
-Continuous improvement is a process of improving quality and efficiency by making small, incremental changes over time. In Kanban, continuous improvement refers specifically to the process of optimizing workflow and reducing cycle time, resulting in increased productivity. 
-</p>
-
-<p>
-<strong>Also Known As: </strong>Kaizen
-</p>
-
-    <p>
-    <strong>How It’s Used: </strong>Continuous improvement is used to introduce improvement into the work process on an incremental basis and involves the following steps: 
-    <ol>
-        <li> Identify </li>
-        <li> Plan </li>
-        <li> Execute </li>
-        <li> Review.  </li>
-    </ol>
-    </p>
-    <p>
-    More specifically for Kanban, there are no set due dates so the team focuses on work-in-progress. As team members collaborate to troubleshoot problems and brainstorm new ideas, the process becomes more efficient and streamlined, cycle times decrease, and workflow is optimized. Teams do not need to be cross-functional in Kanban.
-
-    </p>
-    <p>
-    Project Management Benefits:
-    <ul>
-        <li>Improves productivity and delivery.</li>
-        <li>Increases accuracy in forecasting future work and delivery.</li>
-        <li>Streamlines work and reduces waste.</li>
-        <li>Introduces improvement on an incremental basis.</li>
-        <li>Increases a sense of pride and accomplishment in team members.</li>
-    <ul>
-    </p>
-</div>
-</details>
-
-<details>
   <summary>Continuous Integration (CI)</summary>
   <div class="faq__content">
   <p>	
@@ -230,21 +192,62 @@ Continuous improvement is a process of improving quality and efficiency by makin
   </div>
 </details>
 
+
+<details>
+  <summary>Continuous Improvement</summary>
+  <div class="faq__content">
+<p>	
+	
+Continuous improvement is a process of improving quality and efficiency by making small, incremental changes over time. In Kanban, continuous improvement refers specifically to the process of optimizing workflow and reducing cycle time, resulting in increased productivity. 
+</p>
+<p>
+<strong>Also Known As: </strong>Kaizen
+</p>
+<p>
+      <strong>How It’s Used: </strong>Continuous improvement is used to introduce improvement into the work process on an incremental basis and involves the following steps: 
+      <ol>
+          <li> Identify </li>
+          <li> Plan </li>
+          <li> Execute </li>
+          <li> Review.  </li>
+      </ol>
+  </p>
+
+  <p>
+    More specifically for Kanban, there are no set due dates so the team focuses on work-in-progress. As team members collaborate to troubleshoot problems and brainstorm new ideas, the process becomes more efficient and streamlined, cycle times decrease, and workflow is optimized. Teams do not need to be cross-functional in Kanban.
+  </p>
+   
+    <p>
+    Project Management Benefits:
+      <ul>
+          <li>Improves productivity and delivery.</li>
+          <li>Increases accuracy in forecasting future work and delivery.</li>
+          <li>Streamlines work and reduces waste.</li>
+          <li>Introduces improvement on an incremental basis.</li>
+          <li>Increases a sense of pride and accomplishment in team members.</li>
+      </ul>
+    </p>
+ 
+
+</div>
+</details>
+
+
 <details>
   <summary>Daily Standup</summary>
   <div class="faq__content">
-<p>	
-The Daily Standup meeting is a key component of Agile methodologies and serves as a daily forum for Agile teams to share progress, report impediments, and make commitments for the current iteration or sprint. This brief, 15-minute meeting is usually held every morning at the same time and in the same location. The meeting should be brief enough for participants to stand for its entirety—standing promotes brevity and ensures that the meeting doesn’t extend past the timeframe allotted.
-</p>
-<p>
-<strong>Also Known As: </strong>Daily Scrum, standup meeting, daily meeting, daily huddle
-</p>
-<p>
-<strong>How it’s Used: </strong>Daily standups are typically held around the team’s physical Scrum or Kanban task board (for on-site teams). Teams answer three questions about their work status along these lines:
-    <li> What did I accomplish yesterday?</li>
-    <li> What will I commit to, or complete, today?</li>
-    <li> What impediments or obstacles are preventing me from meeting my commitments?</li>
-</p>
+  <p>	
+  The Daily Standup meeting is a key component of Agile methodologies and serves as a daily forum for Agile teams to share progress, report impediments, and make commitments for the current iteration or sprint. This brief, 15-minute meeting is usually held every morning at the same time and in the same location. The meeting should be brief enough for participants to stand for its entirety—standing promotes brevity and ensures that the meeting doesn’t extend past the timeframe allotted.
+  </p>
+  <p>
+  <strong>Also Known As: </strong>Daily Scrum, standup meeting, daily meeting, daily huddle
+  </p>
+  <p>
+  <strong>How it’s Used: </strong>Daily standups are typically held around the team’s physical Scrum or Kanban task board (for on-site teams). Teams answer three questions about their work status along these lines:
+      <li> What did I accomplish yesterday?</li>
+      <li> What will I commit to, or complete, today?</li>
+      <li> What impediments or obstacles are preventing me from meeting my commitments?</li>
+  </p>
 <p>
 All discussion during the daily standup should be focused on answering these three questions. Any additional discussions stemming from these questions should be handled outside of the daily standup. 
 </p>

@@ -77,7 +77,7 @@ Il est vrai que du temps sera consacré à l'apprentissage et au réajustement d
   </div>
 </details>
 <details>
-  <summary>Peut-on revenir au dojo plus d'une fois ?</summary>
+  <summary>Peut-on revenir au Dojo plus d'une fois ?</summary>
   <div class="faq__content">
       <p>Absolument. En fait, nous espérons que vous le ferez !</p>
 

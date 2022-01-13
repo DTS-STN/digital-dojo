@@ -7,7 +7,7 @@ permalink: /contacteznous/
 
 ---
 
-### Des questions ? Pas de problème ! Nous sommes là pour répondre à toutes vos questions concernant le dojo.
+### Des questions ? Pas de problème ! Nous sommes là pour répondre à toutes vos questions concernant le Dojo.
 
 L'accessibilité nous est très importante et nous travaillons avec Hipporello pour résoudre les problèmes d'accessibilité de leur service. 
 

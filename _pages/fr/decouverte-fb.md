@@ -9,7 +9,7 @@ permalink: /decouverte-fb/
 
 ### Phase de découverte - Vos commentaires
 
-Merci d'avoir complété la phase de découverte avec notre équipe du dojo digital. Afin d'améliorer notre service, nous aimerions lire vos commentaire sur votre expérience dans notre dojo.
+Merci d'avoir complété la phase de découverte avec notre équipe du Dojo digital. Afin d'améliorer notre service, nous aimerions lire vos commentaire sur votre expérience dans notre Dojo.
 
 L'accessibilité nous est très importante et nous travaillons avec Hipporello pour résoudre les problèmes d'accessibilité de leur service. 
 

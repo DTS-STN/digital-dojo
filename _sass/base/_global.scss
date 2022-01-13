@@ -310,6 +310,7 @@ li.breadcrumb-item:before {
 /* When you mouse over the navigation links, change their color */
 .sidebar a:hover {
   color: #f1f1f1;
+  background-color: #444;
 }
 
 /* Position and style the close button (top right corner) */
@@ -368,4 +369,100 @@ li.breadcrumb-item:before {
   margin-right: auto;
   border-style: inset;
   border-width: 1px;
+}
+
+
+/* CAROUSEL */
+
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.signature {
+  text-align: right;
+}
+
+/* Make the images invisible by default */
+.Containers {
+  width: 80%;
+  margin: auto;
+  padding: 3%;
+  font-size: 0.85em;
+  font-style: italic;
+  border: 1px solid;
+  color: $quote-text-color;
+  border-color: $sidebar-button-color;
+  border-radius: 0% 0% 0% 0% / 0% 0% 0% 0% ;
+  box-shadow: 10px 10px rgba(0,0,0,.5);
+  transition: all .4s ease;
+}
+
+/* forward & Back buttons */
+.Back, .forward {
+  cursor: pointer;
+  position: absolute;
+  top: 48%;
+  width: auto;
+  margin-top: -23px;
+  padding: 17px;
+  background-color: $sidebar-button-color;
+  color: white;
+  font-weight: bold;
+  font-size: 19px;
+  transition: 0.4s ease;
+  border-radius: 4px 0 0 4px;
+  user-select: none;
+}
+
+/* Place the "forward button" to the right */
+.forward {
+  right: 0;
+  border-radius: 0 4px 4px 0;
+}
+
+/*when the user hovers,add a black background with some little opacity */
+.Back:hover, .forward:hover {
+  background-color: #444;
+  color: white;
+}
+
+
+
+/* The circles or bullets and indicators */
+.dotty {
+  cursor: pointer;
+  height: 16px;
+  width: 16px;
+  margin: 0 3px;
+  background-color: #acc;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.5s ease;
+}
+
+.enable, .dotty:hover {
+  background-color: #717161;
+}
+
+/* Faint animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.4s;
+  animation-name: fade;
+  animation-duration: 1.4s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .5}
+  to {opacity: 2}
+}
+
+@keyframes fade {
+  from {opacity: .5}
+  to {opacity: 2}
 }

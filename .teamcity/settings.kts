@@ -21,7 +21,7 @@ To debug settings scripts in command-line, run the
 command and attach your debugger to the port 8000.
 
 To debug in IntelliJ Idea, open the 'Maven Projects' tool window (View
--> Tool Windows -> Maven Projects), find the generate task node
+-> Tool Windows -> Maven Projects), find the generate task nodeesdcdtsk8sdev
 (Plugins -> teamcity-configs -> teamcity-configs:generate), the
 'Debug' option is available in the context menu for the task.
 */
@@ -68,7 +68,7 @@ object Build : BuildType({
     params {
         param("env.BASE_DOMAIN", "dev.dts-stn.com")
         param("env.TARGET", "dev")
-        param("env.K8S_CLUSTER_NAME", "ESdCDTSK8SDev-K8S-admin")
+        param("env.K8S_CLUSTER_NAME", "esdcdtsk8sdev-K8S-admin")
         param("env.BRANCH", "%teamcity.build.branch%")
     }
 
@@ -126,7 +126,7 @@ object BuildPR : BuildType({
     params {
         param("env.BASE_DOMAIN", "dev.dts-stn.com")
         param("env.TARGET", "int")
-        param("env.K8S_CLUSTER_NAME", "ESdCDTSK8SDev-K8S-admin")
+        param("env.K8S_CLUSTER_NAME", "esdcdtsk8sdev-K8S-admin")
         param("env.BRANCH", "int")
     }
 

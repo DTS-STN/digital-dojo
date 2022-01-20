@@ -27,7 +27,7 @@ permalink: /home/
   <a class="Back" onclick="plusSlides(-1)" alt="Previous Testimonial">&#10094;</a>
   <a class="forward" onclick="plusSlides(1)"  alt="Next Testimonial">&#10095;</a>
 </div>
-<br>
+
 
 <!-- The circles/dots -->
 <div >

@@ -68,7 +68,7 @@ object Build : BuildType({
     params {
         param("env.BASE_DOMAIN", "dev.dts-stn.com")
         param("env.TARGET", "dev")
-        param("env.K8S_CLUSTER_NAME", "dtsdev-k8s-admin")
+        param("env.K8S_CLUSTER_NAME", "DTSDev-K8S")
         param("env.BRANCH", "%teamcity.build.branch%")
     }
 
@@ -126,7 +126,7 @@ object BuildPR : BuildType({
     params {
         param("env.BASE_DOMAIN", "dev.dts-stn.com")
         param("env.TARGET", "int")
-        param("env.K8S_CLUSTER_NAME", "dtsdev-k8s-admin")
+        param("env.K8S_CLUSTER_NAME", "DTSDev-K8S")
         param("env.BRANCH", "int")
     }
 

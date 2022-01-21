@@ -66,7 +66,7 @@ object Build : BuildType({
     description = "dojo-<<yourbranchname>>.dev.dts-stn.com/digital-dojo/"
 
     params {
-        param("env.BASE_DOMAIN", "dev.dts-stn.com")
+        param("env.BASE_DOMAIN", "dtsdev.dts-stn.com")
         param("env.TARGET", "dev")
         param("env.K8S_CLUSTER_NAME", "DTSDev-K8S")
         param("env.RG_DEV", "DTSDev")

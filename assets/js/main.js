@@ -10,6 +10,24 @@ window.addEventListener('resize', () => {
 window.dispatchEvent(new Event('resize'));
 
 
+
+var h = false;
+
+
+$('.menuBtn').click(function (event) {
+    var curID =  $(this).attr("column");
+
+    if(h == false){        
+    	$('.menu').each(function(){
+        if($(this).attr("column") == curID)
+          $(this).toggle( "fast", function() { left: "0" });
+        });
+    }else{
+        $('.menu').each(function(){$(this).toggle( "fast", function() { left: "50" });});
+    }    
+});
+
+
 /* CAROUSEL */
 
 var slidePosition = 1;
@@ -37,6 +55,6 @@ function SlideShow(n) {
   for (i = 0; i < circles.length; i++) {
       circles[i].className = circles[i].className.replace(" enable", "");
   }
-  slides[slidePosition-1].style.display = "block";
-  circles[slidePosition-1].className += " enable";
+//  slides[slidePosition-1].style.display = "block";
+//  circles[slidePosition-1].className += " enable";
 } 

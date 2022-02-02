@@ -12,12 +12,12 @@ permalink: /accueil/
   <!-- Full images with numbers and message Info -->
   <div class="Containers">
         « Le Digital Dojo a fourni une excellente introduction aux méthodes d'utilisation d'Azure DevOps et d'Agile dans son ensemble.
-        Leur service est collaboratif avec les membres de l'équipe à un niveau personnel, et ils s'adaptent systématiquement aux besoins des autres. »
+        Leur service est collaboratif avec les membres de l'équipe à un niveau personnel, et ils s'adaptent aux besoins des autres. »
         <div class="signature">- Stefan M. (ESDC)</div>
   </div>
 
   <div class="Containers">
-    « Votre équipe est toujours innovante et nous a maintenus engagés tout au long du coaching. Vous avez écouté nos exigences et nous avez mis en contact avec des experts en la matière... J'encourage mes pairs à se connecter au Dojo pour apprendre et améliorer leurs fonctions professionnelles quotidiennes. »
+    « Votre équipe est toujours innovante et nous a maintenus engagés tout au long du coaching. Vous avez écouté nos besoins et vous nous avez mis en contact avec des experts ... J'encourage mes pairs à contacter le Dojo pour apprendre et améliorer vos méthodes de travail. »
     <div class="signature">- Uma P. (ESDC)</div>
 
   </div>

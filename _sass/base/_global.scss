@@ -398,7 +398,7 @@ li.breadcrumb-item:before {
   color: $quote-text-color;
   border-color: $sidebar-button-color;
   border-radius: 0% 0% 0% 0% / 0% 0% 0% 0% ;
-  box-shadow: 10px 10px rgba(0,0,0,.5);
+  box-shadow: 10px 10px rgb(0 0 0 / 5%);
   transition: all .4s ease;
 }
 
@@ -443,6 +443,10 @@ li.breadcrumb-item:before {
   border-radius: 50%;
   display: inline-block;
   transition: background-color 0.5s ease;
+}
+
+.div-center{
+  text-align: center;
 }
 
 .enable, .dotty:hover {

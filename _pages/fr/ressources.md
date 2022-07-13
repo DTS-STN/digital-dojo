@@ -12,7 +12,6 @@ Les liens suivants mènent à des listes de lecture organisées par l'équipe Do
 
 <a href="https://youtube.com/playlist?list=PLA--nqTdtET3gvCY8DBBX-v4-APKMMfZ3" alt="Agile Basics Playlist"> Agile Basics </a> - des vidéos qui, selon nous, expliquent très bien les bases d'Agile. (English Only)
 
-
 <a href="https://youtube.com/playlist?list=PLA--nqTdtET3vDgPXTrCp7YERpq874zWl" alt="Kanban 101 Playlist">Liste de lecture Kanban 101</a> - des bideos qui, selon nous, expliquent très bien les bases de Kanban. (English Only)
 
 <a href="https://youtube.com/playlist?list=PLA--nqTdtET37Dnay7PJy_X6aQsipwfMa" alt="Scrum 101 Playlist">Scrum 101 </a> - des vidéos qui, selon nous, expliquent très bien les bases de Scrum. (English Only) 

@@ -12,6 +12,7 @@ Les liens suivants mènent à des listes de lecture organisées par l'équipe Do
 
 <a href="https://youtube.com/playlist?list=PLA--nqTdtET3gvCY8DBBX-v4-APKMMfZ3" alt="Agile Basics Playlist"> Agile Basics </a> - des vidéos qui, selon nous, expliquent très bien les bases d'Agile. (English Only)
 
+
 <a href="https://youtube.com/playlist?list=PLA--nqTdtET3vDgPXTrCp7YERpq874zWl" alt="Kanban 101 Playlist">Liste de lecture Kanban 101</a> - des bideos qui, selon nous, expliquent très bien les bases de Kanban. (English Only)
 
 <a href="https://youtube.com/playlist?list=PLA--nqTdtET37Dnay7PJy_X6aQsipwfMa" alt="Scrum 101 Playlist">Scrum 101 </a> - des vidéos qui, selon nous, expliquent très bien les bases de Scrum. (English Only) 
@@ -133,7 +134,7 @@ Les liens suivants mènent à des listes de lecture organisées par l'équipe Do
 		<div class="faq__content">
 			<p>	L’amélioration continue est un processus visant à améliorer la qualité et l’efficacité en apportant de petits changements graduels au fil du temps. Dans le contexte de la méthode de gestion Kanban, l’amélioration continue désigne tout particulièrement le processus d’optimisation du flux de travail et de réduction du temps de cycle, ce qui se traduit par une productivité accrue.</p>
 			<p><strong>Aussi appelé :</strong> Kaizen</p>
-			<p><strong>L’amélioration continue est utilisée pour améliorer progressivement le processus de travail et est composée des étapes suivantes :
+			<p><strong>L’amélioration continue est utilisée pour améliorer progressivement le processus de travail et est composée des étapes suivantes :</strong>
 				<ol>
 					<li> Identifier </li>
 					<li> Planifier </li>
